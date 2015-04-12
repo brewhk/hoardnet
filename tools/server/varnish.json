@@ -1,0 +1,13 @@
+{
+	"name": "varnish",
+	"language": "c",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "A cache proxy server - forwards requests to the proxied applications, and caching the response for the next request. This minimizes load on the application.",
+	"features": [
+		"In-memory cache"
+	],
+	"official": "https://www.varnish-cache.org/",
+	"similar": {
+	}
+}

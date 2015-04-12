@@ -1,0 +1,14 @@
+{
+	"name": "haproxy",
+	"language": "c",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "'High Availability Proxy' - A reverse proxy server and load balancer",
+	"features": [
+		"Detailed configurations for load balancing",
+		"Throttling request rates"
+	],
+	"official": "http://www.haproxy.org/",
+	"similar": {
+	}
+}

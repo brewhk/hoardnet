@@ -1,0 +1,14 @@
+{
+	"name": "kafta",
+	"language": "scala",
+	"environment": "server",
+	"audience": "",
+	"description": "A high-throughput distributed messaging system",
+	"features": [
+		"Fast - Handle 1k+ clients, 100MB+ reads/writes per second",
+		"Distributed and scalable"
+	],
+	"official": "http://kafka.apache.org/",
+	"similar": {
+	}
+}

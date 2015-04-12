@@ -1,0 +1,16 @@
+{
+	"name": "ansible",
+	"language": "python",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "",
+	"features": [
+		"Good documentation"
+	],
+	"official": "http://www.ansible.com/",
+	"similar": {
+		"puppet": "",
+		"chef": "",
+		"saltstack": ""
+	}
+}

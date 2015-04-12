@@ -1,0 +1,19 @@
+{
+	"name": "saltstack",
+	"language": "python",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "Infrastructure automation and management system that helps in configuring and managing data center infrastructures, application and code; and built to scale.",
+	"features": [
+		"Scalable",
+		"Reporting and Auditing",
+		"Graphical User Interface",
+		"User permissions",
+	],
+	"official": "http://saltstack.com/",
+	"similar": {
+		"puppet": "",
+		"chef": "",
+		"ansible": ""
+	}
+}

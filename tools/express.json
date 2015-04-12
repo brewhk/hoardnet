@@ -1,0 +1,15 @@
+{
+	"name": "express",
+	"language": "js",
+	"environment": "server",
+	"audience": ["backend"],
+	"description": "An extensible, minimalistic web framework for Node.js that deals with routing and templating.",
+	"features": [
+		"Large community",
+		"Extensible"
+	],
+	"official": "http://expressjs.com/",
+	"similar": {
+		"koa": "Another web framework designed by the team behind Express."
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"name": "vagrant",
+	"language": "ruby",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "Building and distributing development environments.",
+	"features": [
+		"Lowers environment set up time"
+	],
+	"official": "https://www.vagrantup.com/",
+	"similar": {
+	}
+}

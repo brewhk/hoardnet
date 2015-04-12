@@ -1,0 +1,14 @@
+{
+	"name": "mon",
+	"language": "js",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "Monitor processes and restarts it if stops",
+	"features": [
+	],
+	"official": "https://github.com/tj/mon",
+	"similar": {
+		"forever": "",
+		"pm2": ""
+	}
+}

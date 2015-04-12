@@ -1,0 +1,16 @@
+{
+	"name": "gulp",
+	"language": "js",
+	"environment": "server",
+	"audience": ["backend", "frontend"],
+	"description": "A task / build runner for automating tasks such as minifying images, css, uglifying js.",
+	"features": [
+		"Simple syntax and API",
+		"Watches files for changes and live-reloading",
+		"Uses streams"
+	],
+	"official": "http://gulpjs.com/",
+	"similar": {
+		"grunt": "Gulp has a simpler syntax to Grunt"
+	}
+}

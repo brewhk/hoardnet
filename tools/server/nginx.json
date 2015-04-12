@@ -1,0 +1,19 @@
+{
+	"name": "nginx",
+	"language": "c",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "A HTTP and reverse proxy server great a serving static files, load balancing, and caching.",
+	"features": [
+		"Multiple mods for load balancing",
+		"Weighted processes - some processes can be set to receive more load than others",
+		"Sticky sessions, or session persistence - ensures the same client will be directed to the same server unless it is unavailable.",
+		"SSL Termination - nginx keeps the SSL keys but communicates with proxied applications over HTTP",
+		"Supports gzip",
+		"Can server static files"
+	],
+	"official": "http://nginx.org/",
+	"similar": {
+		"apache": "The more established alternative"
+	}
+}

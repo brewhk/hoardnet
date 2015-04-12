@@ -1,0 +1,15 @@
+{
+	"name": "puppet",
+	"language": "ruby",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "Server automation tool that performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.",
+	"features": [
+	],
+	"official": "https://puppetlabs.com/",
+	"similar": {
+		"saltstack": "",
+		"chef": "",
+		"ansible": ""
+	}
+}

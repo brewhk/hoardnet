@@ -1,0 +1,15 @@
+{
+	"name": "chef",
+	"language": "ruby",
+	"environment": "server",
+	"audience": ["sysadmin"],
+	"description": "Automatically ensures every machine in your infrastructure has the same configuration",
+	"features": [
+	],
+	"official": "https://www.chef.io/",
+	"similar": {
+		"saltstack": "",
+		"puppet": "",
+		"ansible": ""
+	}
+}

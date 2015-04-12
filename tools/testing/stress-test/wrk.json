@@ -1,0 +1,16 @@
+{
+	"name": "wrk",
+	"language": "c",
+	"environment": "server",
+	"audience": ["sysadmin", "backend"],
+	"description": "A modern HTTP benchmarking tool. It can generate a large number of connections over multiple threads, and will report the performance.",
+	"features": [
+		"Can perform HTTP request generation"
+	],
+	"official": "https://github.com/wg/wrk",
+	"similar": {
+		"siege": "",
+		"jmeter": "",
+		"yandex-tank": ""
+	}
+}

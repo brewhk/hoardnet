@@ -1,0 +1,15 @@
+{
+	"name": "yandex-tank",
+	"language": "python",
+	"environment": "server",
+	"audience": ["sysadmin", "backend"],
+	"description": "An load testing tool for Linux.",
+	"features": [
+	],
+	"official": "https://github.com/yandex/yandex-tank",
+	"similar": {
+		"siege": "",
+		"wrk": "",
+		"jmeter": ""
+	}
+}
