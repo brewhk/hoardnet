@@ -1,0 +1,24 @@
+{
+	"name": "peforce",
+	"language": "",
+	"environment": "server",
+	"audience": ["sysadmin", "backend", "frontend"],
+	"description": "Distrubuted Version control system (VCS) integrated with visualization tools",
+	"features": [
+		"Uses Git - All the power of Git",
+		"Most similar to GitHub",
+		"Visualization tools - branch, merging",
+		"Issue tracking",
+		"Wiki"
+	],
+	"official": "http://www.perforce.com/",
+	"similar": {
+		"git": "",
+		"mercurial": "",
+		"subversion": "",
+		"cvs": "",
+		"clearcase": "",
+		"rcs": "Outdated",
+		"aegis": "Outdated"
+	}
+}

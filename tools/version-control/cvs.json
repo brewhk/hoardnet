@@ -1,0 +1,21 @@
+{
+	"name": "cvs",
+	"language": "",
+	"environment": "server",
+	"audience": ["sysadmin", "backend", "frontend"],
+	"description": "Version control system (VCS) that records the history of sources files",
+	"features": [
+		"Uses deltas",
+		"Depends on Revision Control System (RCS)"
+	],
+	"official": "http://www.nongnu.org/cvs/",
+	"similar": {
+		"git": "",
+		"mercurial": "",
+		"subversion": "",
+		"perforce": "",
+		"clearcase": "",
+		"rcs": "Outdated",
+		"aegis": "Outdated"
+	}
+}

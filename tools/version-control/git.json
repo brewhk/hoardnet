@@ -1,0 +1,22 @@
+{
+	"name": "git",
+	"language": "c",
+	"environment": "server",
+	"audience": ["sysadmin", "backend", "frontend"],
+	"description": "Distributed version control system (DVCS) that records the history of sources files",
+	"features": [
+		"Cheap local branching",
+		"Convenient staging areas",
+		"Multiple workflows"
+	],
+	"official": "http://git-scm.com/",
+	"similar": {
+		"mercurial": "",
+		"subversion": "",
+		"cvs": "Outdated",
+		"perforce": "",
+		"clearcase": "",
+		"rcs": "Outdated",
+		"aegis": "Outdated"
+	}
+}

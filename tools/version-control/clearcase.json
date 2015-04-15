@@ -1,0 +1,20 @@
+{
+	"name": "clearcase",
+	"language": "",
+	"environment": "server",
+	"audience": ["sysadmin", "backend", "frontend"],
+	"description": "Provides version control, workspace management, parallel development support, and build auditing",
+	"features": [
+		"Integrates well with other IBM products"
+	],
+	"official": "http://www-03.ibm.com/software/products/en/clearcase",
+	"similar": {
+		"git": "",
+		"mercurial": "",
+		"subversion": "",
+		"cvs": "",
+		"perforce": "",
+		"rcs": "Outdated",
+		"aegis": "Outdated"
+	}
+}

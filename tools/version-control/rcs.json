@@ -1,0 +1,20 @@
+{
+	"name": "rcs",
+	"language": "",
+	"environment": "server",
+	"audience": ["sysadmin", "backend", "frontend"],
+	"description": "Version control system (VCS)",
+	"features": [
+		"One of the first VCS, developed in 1980s"
+	],
+	"official": "https://www.gnu.org/software/rcs/",
+	"similar": {
+		"git": "",
+		"perforce": "",
+		"subversion": "",
+		"cvs": "",
+		"clearcase": "",
+		"mercurial": "",
+		"aegis": "Outdated"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "mercurial",
+	"language": "python",
+	"environment": "server",
+	"audience": ["sysadmin", "backend", "frontend"],
+	"description": "Distrubuted Version control system (VCS)",
+	"features": [
+		"Multiple workflows",
+		"Extensible"
+	],
+	"official": "http://mercurial.selenic.com/",
+	"similar": {
+		"git": "",
+		"perforce": "",
+		"subversion": "",
+		"cvs": "",
+		"clearcase": "",
+		"rcs": "Outdated",
+		"aegis": "Outdated"
+	}
+}
