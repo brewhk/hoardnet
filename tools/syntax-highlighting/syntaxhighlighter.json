@@ -1,0 +1,15 @@
+{
+	"name": "syntaxhighlighter",
+	"language": "js",
+	"environment": "browser",
+	"audience": "frontend",
+	"description": "A generic syntax highlighter that parses code blocks and style them on the browser",
+	"features": [
+		"Fully CommonJS compatible"
+	],
+	"official": "http://alexgorbatchev.com/SyntaxHighlighter/",
+	"similar": {
+		"highlight-js": "",
+		"shjs": ""
+	}
+}

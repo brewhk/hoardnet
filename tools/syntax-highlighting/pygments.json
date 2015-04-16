@@ -1,0 +1,15 @@
+{
+	"name": "pygments",
+	"language": "python",
+	"environment": "server",
+	"audience": "frontend",
+	"description": "A generic syntax highlighter that parses code blocks and style them on the server",
+	"features": [
+		"Integrates with Jekyll",
+		"Supports 300+ languages"
+	],
+	"official": "http://pygments.org/",
+	"similar": {
+		"rouge": "Equivalent in Ruby"
+	}
+}

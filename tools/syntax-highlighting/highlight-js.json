@@ -1,0 +1,17 @@
+{
+	"name": "highlight-js",
+	"language": "js",
+	"environment": "browser",
+	"audience": "frontend",
+	"description": "A generic syntax highlighter that parses code blocks and style them on the browser",
+	"features": [
+		"Automatic language detection",
+		"Multi-language highlighting",
+		"Supports 118 languages and 54 styles"
+	],
+	"official": "https://highlightjs.org/",
+	"similar": {
+		"syntaxhighlighter": "",
+		"shjs": ""
+	}
+}
