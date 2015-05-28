@@ -1,0 +1,35 @@
+{
+  "_id": "virtualbox",
+  "name": "virtualbox",
+  "description": "a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use",
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "windows",
+    "linux",
+    "osx"
+  ],
+  "audience": [
+    "sysadmin"
+  ],
+  "features": [],
+  "scenario": [],
+  "website": "When you need to run a virtualized environment (eg. running Windows within Mac OS X)",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "VMWare",
+      "relationship": "Alternative commercial virtual machine"
+    },
+    {
+      "id": "QEmu",
+      "relationship": "Free and open source hypervisor"
+    },
+    {
+      "id": "Parallels Desktop",
+      "relationship": "Alternative commercial virtual machine with integrated support for \"mixing\" operative systems"
+    }
+  ],
+  "usedby": []
+}

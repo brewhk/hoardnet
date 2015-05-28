@@ -1,0 +1,42 @@
+{
+  "_id": "apache",
+  "name": "Apache HTTP Server",
+  "description": "",
+  "dependencies": [],
+  "language": "c",
+  "environments": [
+    "server",
+    "windows",
+    "linux",
+    "osx"
+  ],
+  "audience": [
+    "sysadmin"
+  ],
+  "features": [],
+  "scenario": [
+    "When you need to run an HTTP server to serve static pages or dynamic (through modules)"
+  ],
+  "website": "http://httpd.apache.org/",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "nginx",
+      "relationship": "A lightweight alternative, generally considered faster"
+    },
+    {
+      "id": "lighttpd",
+      "relationship": "A secure and fast alternative"
+    }
+  ],
+  "usedby": [
+    "baidu",
+    "wikipedia",
+    "vk",
+    "paypal",
+    "ask",
+    "apple",
+    "rakuten"
+  ]
+}
