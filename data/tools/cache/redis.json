@@ -1,0 +1,42 @@
+{
+	"_id": "redis",
+	"name": "Redis",
+	"dependencies": [],
+	"language": "c",
+	"environments": [
+		"server",
+		"windows",
+		"linux",
+		"osx"
+	],
+	"description": "Redis is an open source, BSD licensed, advanced key-value cache and store",
+	"features": [
+		"fast",
+		"scalable",
+		"replicable",
+		"tunable",
+		"manages different data structures",
+		"high availability"
+	],
+	"scenario": [
+		"If you need a fast cache server",
+		"If you need to manage mutable data structures in memory"
+	],
+	"website": "http://redis.io",
+	"repository": "https://github.com/antirez/redis",
+	"demo": "http://try.redis.io",
+	"similar": [
+		{"id": "memcache", "relationship": "Similar to redis but focused only on cache and with limited data structures"}
+	],
+	"usedby": [
+		"twitter",
+		"github",
+		"weibo",
+		"pinterest",
+		"snapchat",
+		"craigslist",
+		"digg",
+		"stackoverflow",
+		"flickr"
+	]
+}
