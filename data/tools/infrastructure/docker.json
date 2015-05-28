@@ -1,0 +1,35 @@
+{
+  "_id": "docker",
+  "name": "Docker",
+  "description": "An open platform for developers and sysadmins of distributed applications",
+  "dependencies": [],
+  "language": "go",
+  "environments": [
+    "server",
+    "linux"
+  ],
+  "audience": [
+    "sysadmin"
+  ],
+  "features": [
+    "Easily build, ship and run an application"
+  ],
+  "scenario": [
+    "When you want to package your app and all its dependencies into a single runnable unit"
+  ],
+  "website": "https://www.docker.com/",
+  "repository": "https://github.com/docker/docker",
+  "demo": "https://www.docker.com/tryit",
+  "similar": [
+    {
+      "id": "rkt",
+      "relationship": "a container alternative built by CoreOs"
+    }
+  ],
+  "usedby": [
+    "gilt",
+    "yelp",
+    "spoify",
+    "newrelic"
+  ]
+}

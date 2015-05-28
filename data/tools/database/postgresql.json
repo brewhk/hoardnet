@@ -1,0 +1,28 @@
+{
+  "_id": "postgresql",
+  "name": "PostgreSQL",
+  "description": "A powerful, open source object-relational database system with more than 15 years of active development",
+  "dependencies": [],
+  "language": "",
+  "environments": [],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [],
+  "scenario": [],
+  "website": "http://www.postgresql.org/",
+  "repository": "http://git.postgresql.org/gitweb/?p=postgresql.git",
+  "demo": "",
+  "similar": [
+    {
+      "id": "mysql",
+      "relationship": "very similar SQL open source database"
+    }
+  ],
+  "usedby": [
+    "etsy",
+    "apple",
+    "skype"
+  ]
+}
