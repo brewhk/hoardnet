@@ -1,0 +1,27 @@
+{
+  "_id": "newrelic",
+  "name": "New Relic",
+  "description": "Platform that collects and display massive amounts of real-time data to monitor web apps",
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "server",
+    "linux"
+  ],
+  "audience": [
+    "sysadmin"
+  ],
+  "features": [],
+  "scenario": [
+    "When you want to monitor the performance of a web app in production and its related components (eg. database)"
+  ],
+  "website": "http://newrelic.com/",
+  "repository": "",
+  "demo": "",
+  "similar": [],
+  "usedby": [
+    "nordstrom",
+    "zendesk",
+    "gartner"
+  ]
+}
