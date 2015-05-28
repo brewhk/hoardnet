@@ -1,13 +1,35 @@
 {
-	"name": "vagrant",
-	"language": "ruby",
-	"environment": "server",
-	"audience": ["sysadmin"],
-	"description": "Building and distributing development environments.",
-	"features": [
-		"Lowers environment set up time"
-	],
-	"official": "https://www.vagrantup.com/",
-	"similar": {
-	}
+  "_id": "vagrant",
+  "name": "vagrant",
+  "description": "Building and distributing development environments.",
+  "dependencies": [
+    "ruby"
+  ],
+  "language": "ruby",
+  "environments": [
+    "windows",
+    "linux",
+    "osx"
+  ],
+  "audience": [
+    "sysadmin"
+  ],
+  "features": [
+    "Lowers environment set up time",
+    "Abstracts the provisioning and management of several infrastructures and VMs types (Virtualbox, Docker, etc.)"
+  ],
+  "scenario": [
+    "When you need to setup and provision a virtual machine easily",
+    "When you need to share a single files that defines a virtual machine (eg. between a development team)"
+  ],
+  "website": "https://www.vagrantup.com/",
+  "repository": "https://github.com/mitchellh/vagrant",
+  "demo": "",
+  "similar": [],
+  "usedby": [
+    "disqus",
+    "mozilla",
+    "nokia",
+    "yammer"
+  ]
 }
