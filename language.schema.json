@@ -1,0 +1,18 @@
+{
+  "title": "Language",
+  "type": "object",
+  "properties": {
+    "_id": {
+      "type": "string",
+      "description": "A unique name amongst all the languages - usually the lowercaseCamelCase, space-removed version of the name will do. E.g. cnet",
+      "minLength": 1,
+      "default": ""
+    },
+    "name": {
+      "type": "string",
+      "description": "The official and human-readable name of the language - e.g. \"C#.NET\"",
+      "minLength": 1,
+      "default": ""
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "title": "Tool",
+  "type": "object",
+  "properties": {
+    "_id": {
+      "type": "string",
+      "description": "A unique name amongst all the documents - usually the lowercaseCamelCase, space-removed version of the name will do. E.g. express",
+      "minLength": 1,
+      "default": ""
+    },
+    "name": {
+      "type": "string",
+      "description": "The human-readable name of the tool",
+      "minLength": 1,
+      "default": ""
+    },
+    "description": {
+      "type": "string",
+      "description": "A short description of the tool, aim to keep it within 20 words or 120 characters",
+      "maxLength": 120
+    },
+    "dependencies": {
+      "type": "array",
+      "format": "table",
+      "title": "Dependencies",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "language": {
+      "type": "string",
+      "description": "Which language is this tool primarily being written in? Must be a valid id value from the Languages collection",
+      "minLength": 1,
+      "default": ""
+    },
+    "environments": {
+      "type": "array",
+      "description": "Which environment is this tool used in?",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "browser",
+          "server",
+          "client",
+          "android",
+          "ios",
+          "mobile",
+          "windows",
+          "linux",
+          "osx"
+        ]
+      }
+    },
+    "audience": {
+      "type": "array",
+      "description": "Who would use this tool?",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "sysadmin",
+          "backend",
+          "frontend",
+          "designer",
+          "manager",
+          "qa"
+        ]
+      }
+    },
+    "features": {
+      "type": "array",
+      "description": "An array listing out features of the tool",
+      "items": {
+        "type": "string"
+      }
+    },
+    "scenario": {
+      "type": "array",
+      "description": "An array listing out the use cases or scenarios where a person would use this tool",
+      "items": {
+        "type": "string"
+      }
+    },
+    "website": {
+      "type": "string",
+      "description": "The URL to the official site, without the protocol"
+    },
+    "repository": {
+      "type": "string",
+      "description": "URL to the repository"
+    },
+    "demo": {
+      "type": "string",
+      "description": "URL to a demo, if any"
+    },
+    "similar": {
+      "type": "array",
+      "description": "Each object shall represent a similar tool",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "relationship": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "usedby": {
+      "type": "array",
+      "description": "An array of the organization ids",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Organization",
+  "type": "object",
+  "properties": {
+    "_id": {
+      "type": "string",
+      "description": "A unique name amongst all the organizations - usually the lowercaseCamelCase, space-removed version of the name will do. E.g. joyent",
+      "minLength": 1,
+      "default": ""
+    },
+    "name": {
+      "type": "string",
+      "description": "The official and human-readable name of the organization. e.g. \"Joyent, Inc.\"",
+      "minLength": 1,
+      "default": ""
+    },
+    "website": {
+      "type": "string",
+      "description": "The URL to the official site, without the protocol"
+    },
+    "social": {
+      "type": "object",
+      "properties": {
+        "twitter": {
+          "type": "string",
+          "description": "Twitter handle"
+        },
+        "github": {
+          "type": "string",
+          "description": "The github username"
+        },
+        "facebook": {
+          "type": "string",
+          "description": "facebook username"
+        }
+      }
+    },
+  }
+}
