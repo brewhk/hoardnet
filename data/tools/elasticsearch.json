@@ -1,0 +1,51 @@
+{
+  "_id": "elasticsearch",
+  "name": "Elasticsearch",
+  "description": "Open source real time server for search and data analysis",
+  "summary": "Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with a RESTful web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License. Elasticsearch is the second most popular enterprise search engine",
+  "tags": [
+    "database"
+  ],
+  "dependencies": [
+    "java"
+  ],
+  "language": "java",
+  "environments": [
+    "server",
+    "linux"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "Distributed, scalable, and highly available",
+    "Real-time search and analytics capabilities",
+    "Sophisticated RESTful API"
+  ],
+  "scenario": [
+    "When you have to build advanced search features into a big website",
+    "When you have to provide full text search in a big cluster of documents",
+    "When you want to track analytics in real time"
+  ],
+  "website": "https://www.elastic.co/products/elasticsearch",
+  "repository": "https://github.com/elastic/elasticsearch",
+  "demo": "",
+  "similar": [
+    {
+      "id": "solr",
+      "relationship": "It does not support nested object structure"
+    }
+  ],
+  "usedby": [
+    "soundcloud",
+    "linkedin",
+    "atlassian",
+    "fico",
+    "wordpress",
+    "ebay",
+    "taskrabbit",
+    "loggly",
+    "trello"
+  ]
+}

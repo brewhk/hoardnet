@@ -1,0 +1,50 @@
+{
+  "_id": "memcached",
+  "name": "Memcached",
+  "description": "Free and open source, high-performance, distributed memory object caching system",
+  "summary": "Memcached is an in-memory key-value store for small chunks of arbitrary data (strings, objects) from results of database calls, API calls, or page rendering.",
+  "tags": [
+    "cache"
+  ],
+  "dependencies": [],
+  "language": "c",
+  "environments": [
+    "server",
+    "windows",
+    "linux",
+    "osx"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "High-performance",
+    "Distributed",
+    "Store data in memory for faster access"
+  ],
+  "scenario": [
+    "When you need to speed up a web application leveraging an in-memory cache server",
+    "When you need to cache frequent access data"
+  ],
+  "website": "http://memcached.org/",
+  "repository": "https://github.com/memcached/memcached",
+  "demo": "",
+  "similar": [
+    {
+      "id": "redis",
+      "relationship": "A powerful distributed cache server with a wider range of data structures"
+    }
+  ],
+  "usedby": [
+    "livejournal",
+    "bebo",
+    "wikipedia",
+    "flickr",
+    "twitter",
+    "typepad",
+    "youtube",
+    "wordpress",
+    "craigslist"
+  ]
+}

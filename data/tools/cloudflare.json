@@ -1,0 +1,52 @@
+{
+  "_id": "cloudflare",
+  "name": "CloudFlare",
+  "description": "A commercial content delivery network and distributed domain name server system",
+  "summary": "Its network protects, speeds up, and improves availability for a website or mobile application with a change in DNS",
+  "tags": [
+    "cache"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "Content Delivery Network",
+    "Web page speed optimization",
+    "Protection from a variety of attacks",
+    "Website traffic analytics"
+  ],
+  "scenario": [
+    "When you need to distribute your content around the world so it’s closer to your visitors ",
+    "When you want to speed up the loading of web pages with ad servers and third party widgets",
+    "When you want to protect your website from a range of online threats from spammers to SQL injection to DDOS"
+  ],
+  "website": "https://www.cloudflare.com/",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "cdnify",
+      "relationship": ""
+    },
+    {
+      "id": "cdnlion",
+      "relationship": ""
+    },
+    {
+      "id": "maxcdn",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "zendesk",
+    "reddit",
+    "digitalocean",
+    "zopim"
+  ]
+}
