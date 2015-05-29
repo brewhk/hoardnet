@@ -1,0 +1,40 @@
+{
+  "_id": "semanticui",
+  "name": "Semantic UI",
+  "description": "A frontend web development framework to build responsive layouts",
+  "summary": "Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.",
+  "tags": [
+    "design"
+  ],
+  "dependencies": [
+    "javascript"
+  ],
+  "language": "javascript",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend",
+    "designer"
+  ],
+  "features": [
+    "Concise HTML",
+    "Intuitive Javascript library",
+    "Simplified debugging",
+    "Support for Theming",
+    "A good amount of already developed components (+50)",
+    "Responsive design",
+    "Works with AngularJS, Ember and Meteor"
+  ],
+  "scenario": [
+    "When you want to design Beautiful Websites Quicker",
+    "When you want to use a semantic markup",
+    "When you need to develop a responsive website",
+    "When you need a set of consistent web components"
+  ],
+  "website": "http://semantic-ui.com/",
+  "repository": "https://github.com/Semantic-Org/Semantic-UI",
+  "demo": "",
+  "similar": [],
+  "usedby": []
+}

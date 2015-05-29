@@ -1,0 +1,53 @@
+{
+  "_id": "angularjs",
+  "name": "AngularJS",
+  "description": "Angular is a development platform for building mobile and desktop web applications",
+  "summary": "Angular is a development platform for creating applications using modern web standards. Angular includes a wealth of essential features such as mobile gestures, animations, filtering, routing, data binding, security, internationalization, and beautiful UI components. It's extremely modular, lightweight, and easy to learn.",
+  "tags": [
+    "framework"
+  ],
+  "dependencies": [
+    ""
+  ],
+  "language": "javascript",
+  "environments": [
+    "browser",
+    "client"
+  ],
+  "audience": [
+    "frontend"
+  ],
+  "features": [
+    "Data binding",
+    "Form validation",
+    "Deep linking",
+    "Server communication",
+    "Directive",
+    "Reusable components",
+    "Localization"
+  ],
+  "scenario": [
+    "When I want to create reausable and extendible javascript components",
+    "When I want to create complex single page web apps",
+    "When I want to create mobile web apps using web technologies"
+  ],
+  "website": "https://angular.io",
+  "repository": "https://github.com/angular/angular",
+  "demo": "",
+  "similar": [
+    {
+      "id": "reactjs",
+      "relationship": ""
+    },
+    {
+      "id": "emberjs",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "google",
+    "youtube",
+    "lamborghini",
+    "ryanair"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "_id": "wercker",
+  "name": "Wercker",
+  "description": "A Docker-based platform for developing, building and delivering your applications",
+  "summary": "Wercker is an automation platform and toolchain that helps you speed up your development, build, and deployment workflows.  You can use wercker to build, test and deliver your applications in an automated fashion, so you can focus on what matters most; creating your product!",
+  "tags": [
+    "infrastructure"
+  ],
+  "dependencies": [
+    "python"
+  ],
+  "language": "python",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "sysadmin"
+  ],
+  "features": [
+    "Command line",
+    "Web interface"
+  ],
+  "scenario": [
+    "When i want to spin up a docker container easily"
+  ],
+  "website": "http://wercker.com/",
+  "repository": "https://github.com/wercker/wercker-cli",
+  "demo": "",
+  "similar": [
+    {
+      "id": "kitematic",
+      "relationship": "a graphical user interface to easily set up docker machines"
+    }
+  ],
+  "usedby": []
+}

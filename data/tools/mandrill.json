@@ -39,6 +39,10 @@
     {
       "id": "mailjet",
       "relationship": ""
+    },
+    {
+      "id": "sendgrid",
+      "relationship": ""
     }
   ],
   "usedby": [

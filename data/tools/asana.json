@@ -1,0 +1,40 @@
+{
+  "_id": "asana",
+  "name": "Asana",
+  "description": "A web and mobile application designed to enable teamwork without email",
+  "summary": "An online SaaS product focused on team productivity to help your team get work done.",
+  "tags": [
+    "productivity"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser",
+    "mobile"
+  ],
+  "audience": [
+    "manager"
+  ],
+  "features": [
+    "Manage team, projects and tasks",
+    "Manage deadlines and monitor productivity",
+    "Comments, notifications, discussions",
+    "Integrations with other online tools",
+    "Interactive dashboard"
+  ],
+  "scenario": [
+    "When I want to organize the tasks for a project and monitor my team progresses"
+  ],
+  "website": "https://asana.com",
+  "repository": "",
+  "demo": "",
+  "similar": [],
+  "usedby": [
+    "lyft",
+    "circa",
+    "pinterest",
+    "uber",
+    "airbnb",
+    "dropbox"
+  ]
+}
