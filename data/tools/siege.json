@@ -1,0 +1,15 @@
+{
+	"name": "siege",
+	"language": "c",
+	"environment": "server",
+	"audience": ["sysadmin", "backend"],
+	"description": "An load testing tool for Linux.",
+	"features": [
+	],
+	"official": "http://linux.die.net/man/1/siege",
+	"similar": {
+		"jmeter": "",
+		"wrk": "",
+		"yandex-tank": ""
+	}
+}
