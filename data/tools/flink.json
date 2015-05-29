@@ -1,0 +1,39 @@
+{
+  "_id": "flink",
+  "name": "Flink",
+  "description": "An open source platform for scalable batch and stream data processing",
+  "summary": "Flink’s core is a streaming dataflow engine that provides data distribution, communication, and fault tolerance for distributed computations over data streams",
+  "tags": [
+    "bigdata"
+  ],
+  "dependencies": [
+    "java"
+  ],
+  "language": "java",
+  "environments": [
+    "server",
+    "linux"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "Fast",
+    "Reliable",
+    "Easy to use",
+    "Expressive",
+    "Integrated with Hadoop"
+  ],
+  "scenario": [
+    "When you need to build machine learning infrastructures",
+    "When you need to process a big amount of streamed data (eg. audio or video)",
+    "When you need to process complex graph-based data",
+    "When you need to analyse a huge stream of data"
+  ],
+  "website": "https://flink.apache.org/",
+  "repository": "https://github.com/apache/flink",
+  "demo": "",
+  "similar": [],
+  "usedby": []
+}

@@ -1,0 +1,67 @@
+{
+  "_id": "atom",
+  "name": "Atom",
+  "description": "A hackable text editor",
+  "summary": "Atom is a free and open-source text and source code editor for OS X, Linux, and Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub",
+  "tags": [
+    "editor"
+  ],
+  "dependencies": [
+    "nodejs"
+  ],
+  "language": "coffeescript",
+  "environments": [
+    "client",
+    "windows",
+    "linux",
+    "osx"
+  ],
+  "audience": [
+    "backend",
+    "frontend"
+  ],
+  "features": [
+    "Node.js integration",
+    "Modular design",
+    "Full featured",
+    "Themeable"
+  ],
+  "scenario": [
+    "When you need a text editor for web development",
+    "When you need to edit a source file",
+    "When you need to be productive while writing code"
+  ],
+  "website": "https://atom.io/",
+  "repository": "https://github.com/atom/atom",
+  "demo": "",
+  "similar": [
+    {
+      "id": "sublimetext",
+      "relationship": ""
+    },
+    {
+      "id": "vim",
+      "relationship": "works on console and it's super fast. Loved by hardcore developers"
+    },
+    {
+      "id": "gedit",
+      "relationship": ""
+    },
+    {
+      "id": "bbedit",
+      "relationship": "for mac"
+    },
+    {
+      "id": "emacs",
+      "relationship": "similar to vim"
+    },
+    {
+      "id": "textmate",
+      "relationship": "for mac"
+    }
+  ],
+  "usedby": [
+    "github",
+    "facebook"
+  ]
+}
