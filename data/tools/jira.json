@@ -1,0 +1,57 @@
+{
+  "_id": "jira",
+  "name": "JIRA",
+  "description": "Project tracker for teams planning and building great products",
+  "summary": "JIRA is a proprietary issue tracking product, developed by Atlassian. It provides bug tracking, issue tracking, and project management functions.",
+  "tags": [
+    "planning"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "manager"
+  ],
+  "features": [
+    "Manages project issues",
+    "Uses workflow to define company processes",
+    "Capture, assign and prioritize tasks"
+  ],
+  "scenario": [
+    "When I need to organize my team to build and deliver a product",
+    "When I need a backlog of the issues of my product",
+    "When I need to assign and track tasks"
+  ],
+  "website": "https://www.atlassian.com/software/jira",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "asana",
+      "relationship": ""
+    },
+    {
+      "id": "teamwork",
+      "relationship": ""
+    },
+    {
+      "id": "redmine",
+      "relationship": "Free open source alternative"
+    },
+    {
+      "id": "jixee",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "square",
+    "nasa",
+    "ebay",
+    "cisco",
+    "salesforce",
+    "adobe",
+    "linkedin"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "_id": "mandrill",
+  "name": "Mandrill",
+  "description": "Professional email infrastructure for transactional emails",
+  "summary": "Mandrill is a reliable, scalable, and secure email infrastructure service for websites and applications. It's ideal for sending targeted, personalized, and automated one-to-one transactional emails.",
+  "tags": [
+    "email"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "server",
+    "client"
+  ],
+  "audience": [
+    "manager"
+  ],
+  "features": [
+    "Globally distributed infrastructure",
+    "Automatic email authentication",
+    "Custom authentication with SPF & DKIM",
+    "Automatic feedback loop registration",
+    "Dedicated IP addresses",
+    "Automated dedicated IP warmup",
+    "Dedicated IP pooling",
+    "Multiple domains per account"
+  ],
+  "scenario": [
+    "When I want to send transactional emails (email to a single person to notify a specific action, eg. payment confirmation)"
+  ],
+  "website": "https://www.mandrill.com",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "mailgun",
+      "relationship": ""
+    },
+    {
+      "id": "mailjet",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "trello",
+    "soundcloud",
+    "dailymotion",
+    "envato"
+  ]
+}
