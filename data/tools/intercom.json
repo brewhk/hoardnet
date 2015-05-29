@@ -1,0 +1,42 @@
+{
+  "_id": "intercom",
+  "name": "Intercom",
+  "description": "A PaaS platform that simplify the process of talking with your customers",
+  "summary": "Intercome is the single platform for every customer interaction on web and mobile applications",
+  "tags": [
+    "crm"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "manager"
+  ],
+  "features": [
+    "Online chat",
+    "Customer management",
+    "Customer emailing (onboarding and retention)",
+    "Customer feedback",
+    "Customer profilation"
+  ],
+  "scenario": [
+    "When I want to communicate with my customers while they are online",
+    "When I want to provide a feedback dashboard to my customers",
+    "When I want to contact my customers with custom email messages to retain them"
+  ],
+  "website": "https://www.intercom.io/",
+  "repository": "",
+  "demo": "",
+  "similar": [],
+  "usedby": [
+    "yahoo",
+    "zenpayroll",
+    "workable",
+    "unbounce",
+    "buffer",
+    "invision",
+    "newrelic"
+  ]
+}
