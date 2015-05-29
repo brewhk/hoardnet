@@ -11,9 +11,9 @@
 	"features": [
 	],
 	"official": "https://github.com/yandex/yandex-tank",
-	"similar": {
-		"siege": "",
-		"wrk": "",
-		"jmeter": ""
-	}
+	"similar": [
+		{"id": "siege", "relationship": ""},
+		{"id": "wrk", "relationship": ""},
+		{"id": "jmeter", "relationship": ""}
+	]
 }

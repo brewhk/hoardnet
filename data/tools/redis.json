@@ -29,7 +29,7 @@
 	"repository": "https://github.com/antirez/redis",
 	"demo": "http://try.redis.io",
 	"similar": [
-		{"id": "memcache", "relationship": "Similar to redis but focused only on cache and with limited data structures"}
+		{"id": "memcached", "relationship": "Similar to redis but focused only on cache and with limited data structures"}
 	],
 	"usedby": [
 		"twitter",

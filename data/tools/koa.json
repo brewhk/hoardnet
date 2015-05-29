@@ -11,7 +11,7 @@
 		"Smaller than Express"
 	],
 	"official": "http://koajs.com/",
-	"similar": {
-		"express": "The original fork of koa"
-	}
+	"similar": [
+		{"id": "express", "relationship":"The original fork of koa"}
+	]
 }

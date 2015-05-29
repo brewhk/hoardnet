@@ -13,13 +13,13 @@
 		"Multiple workflows"
 	],
 	"official": "http://git-scm.com/",
-	"similar": {
-		"mercurial": "",
-		"subversion": "",
-		"cvs": "Outdated",
-		"perforce": "",
-		"clearcase": "",
-		"rcs": "Outdated",
-		"aegis": "Outdated"
-	}
+	"similar": [
+		{"id": "mercurial", "relationship": ""},
+		{"id": "subversion", "relationship": ""},
+		{"id": "cvs", "relationship": ""},
+		{"id": "perforce", "relationship": ""},
+		{"id": "clearcase", "relationship": ""},
+		{"id": "rcs", "relationship": "Outdated"},
+		{"id": "aegis", "relationship": "Outdated"}
+	]
 }

@@ -11,13 +11,13 @@
 		"One of the first VCS, developed in 1980s"
 	],
 	"official": "https://www.gnu.org/software/rcs/",
-	"similar": {
-		"git": "",
-		"perforce": "",
-		"subversion": "",
-		"cvs": "",
-		"clearcase": "",
-		"mercurial": "",
-		"aegis": "Outdated"
-	}
+	"similar": [
+		{"id": "git", "relationship": ""},
+		{"id": "perforce", "relationship": ""},
+		{"id": "subversion", "relationship": ""},
+		{"id": "cvs", "relationship": ""},
+		{"id": "clearcase", "relationship": ""},
+		{"id": "mercurial", "relationship": ""},
+		{"id": "aegis", "relationship": "Outdated"}
+	]
 }

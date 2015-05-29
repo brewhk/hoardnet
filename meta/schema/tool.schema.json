@@ -44,7 +44,6 @@
     "language": {
       "type": "string",
       "description": "Which language is this tool primarily being written in? Must be a valid id value from the Languages collection",
-      "minLength": 1,
       "default": ""
     },
     "environments": {

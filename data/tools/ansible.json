@@ -11,9 +11,9 @@
 		"Good documentation"
 	],
 	"official": "http://www.ansible.com/",
-	"similar": {
-		"puppet": "",
-		"chef": "",
-		"saltstack": ""
-	}
+	"similar": [
+		{ "id": "puppet", "relationship": "" },
+		{ "id": "chef", "relationship": "" },
+		{ "id": "saltstack","relationship": "" }
+	]
 }

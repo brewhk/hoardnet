@@ -5,14 +5,14 @@
   	],
 	"language": "js",
 	"environment": "browser",
-	"audience": "frontend",
+	"audience": ["frontend"],
 	"description": "A generic syntax highlighter that parses code blocks and style them on the browser",
 	"features": [
 		"Supports 36 languages"
 	],
 	"official": "http://shjs.sourceforge.net/",
-	"similar": {
-		"highlight-js": "",
-		"syntaxhighlighter": ""
-	}
+	"similar": [
+		{"id": "highlight-js", "relationship": ""},
+		{"id": "syntaxhighlighter", "relationship": ""}
+	]
 }

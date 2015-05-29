@@ -11,10 +11,10 @@
 		"Supports Amazon EC2, DigitalOcean, Google Compute Engine, QEMU, VirtualBox, VMware, and more"
 	],
 	"official": "https://www.packer.io/",
-	"similar": {
-		"puppet": "",
-		"chef": "",
-		"saltstack": "",
-		"ansible": ""
-	}
+	"similar": [
+		{"id": "puppet", "relationship": ""},
+		{"id": "chef", "relationship": ""},
+		{"id": "saltstack", "relationship": ""},
+		{"id": "ansible", "relationship": ""}
+	]
 }

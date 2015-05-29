@@ -16,7 +16,7 @@
 		"Can server static files"
 	],
 	"official": "http://nginx.org/",
-	"similar": {
-		"apache": "The more established alternative"
-	}
+	"similar": [
+		{"id": "apache", "relationship": "The more established alternative"}
+	]
 }

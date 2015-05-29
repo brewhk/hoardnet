@@ -12,6 +12,5 @@
 		"Throttling request rates"
 	],
 	"official": "http://www.haproxy.org/",
-	"similar": {
-	}
+	"similar": []
 }

@@ -15,13 +15,13 @@
 		"Wiki"
 	],
 	"official": "http://www.perforce.com/",
-	"similar": {
-		"git": "",
-		"mercurial": "",
-		"subversion": "",
-		"cvs": "",
-		"clearcase": "",
-		"rcs": "Outdated",
-		"aegis": "Outdated"
-	}
+	"similar": [
+		{"id": "git", "relationship": ""},
+		{"id": "mercurial", "relationship": ""},
+		{"id": "subversion", "relationship": ""},
+		{"id": "cvs", "relationship": ""},
+		{"id": "clearcase", "relationship": ""},
+		{"id": "rcs", "relationship": "Outdated"},
+		{"id": "aegis", "relationship": "Outdated"}
+	]
 }

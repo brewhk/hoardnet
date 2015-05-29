@@ -10,8 +10,8 @@
 	"features": [
 	],
 	"official": "https://github.com/tj/mon",
-	"similar": {
-		"forever": "",
-		"pm2": ""
-	}
+	"similar": [
+		{"id": "forever", "relationship": ""},
+		{"id": "pm2", "relationship": ""}
+	]
 }

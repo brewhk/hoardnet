@@ -12,7 +12,10 @@
 		"Extensible"
 	],
 	"official": "http://expressjs.com/",
-	"similar": {
-		"koa": "Another web framework designed by the team behind Express."
-	}
+	"similar": [
+		{
+			"id": "koa",
+			"relationship": "Another web framework designed by the team behind Express."
+		}
+	]
 }

@@ -13,7 +13,10 @@
 		"Uses streams"
 	],
 	"official": "http://gulpjs.com/",
-	"similar": {
-		"grunt": "Gulp has a simpler syntax to Grunt"
-	}
+	"similar": [
+		{
+			"id": "grunt",
+			"relationship": "Gulp has a simpler syntax to Grunt"
+		}
+	]
 }

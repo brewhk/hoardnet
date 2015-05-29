@@ -12,13 +12,13 @@
 		"Depends on Revision Control System (RCS)"
 	],
 	"official": "http://www.nongnu.org/cvs/",
-	"similar": {
-		"git": "",
-		"mercurial": "",
-		"subversion": "",
-		"perforce": "",
-		"clearcase": "",
-		"rcs": "Outdated",
-		"aegis": "Outdated"
-	}
+	"similar": [
+		{"id": "git", "relationship": ""},
+		{"id": "mercurial", "relationship": ""},
+		{"id": "subversion", "relationship": ""},
+		{"id": "perforce", "relationship": ""},
+		{"id": "clearcase", "relationship": ""},
+		{"id": "rcs", "relationship": "Outadated"},
+		{"id": "aegis", "relationship": "Outadated"}
+	]
 }

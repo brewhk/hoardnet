@@ -6,7 +6,7 @@
 	"language": "python",
 	"environment": "server",
 	"audience": ["sysadmin"],
-	"description": "Infrastructure automation and management system that helps in configuring and managing data center infrastructures, application and code; and built to scale.",
+	"description": "Infrastructure automation and management system",
 	"features": [
 		"Scalable",
 		"Reporting and Auditing",
@@ -14,9 +14,9 @@
 		"User permissions"
 	],
 	"official": "http://saltstack.com/",
-	"similar": {
-		"puppet": "",
-		"chef": "",
-		"ansible": ""
-	}
+	"similar": [
+		{"id": "puppet", "relationship": ""},
+		{"id": "chef", "relationship": ""},
+		{"id": "ansible", "relationship": ""}
+	]
 }

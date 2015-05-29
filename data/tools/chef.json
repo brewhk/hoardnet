@@ -10,9 +10,9 @@
 	"features": [
 	],
 	"official": "https://www.chef.io/",
-	"similar": {
-		"saltstack": "",
-		"puppet": "",
-		"ansible": ""
-	}
+	"similar": [
+		{"id": "saltstack", "relationship": "" },
+		{"id": "puppet", "relationship": "" },
+		{"id": "ansible", "relationship": "" }
+	]
 }

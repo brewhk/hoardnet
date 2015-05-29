@@ -5,7 +5,7 @@
   	],
 	"language": "js",
 	"environment": "browser",
-	"audience": "frontend",
+	"audience": ["frontend"],
 	"description": "A generic syntax highlighter that parses code blocks and style them on the browser",
 	"features": [
 		"Automatic language detection",
@@ -13,8 +13,8 @@
 		"Supports 118 languages and 54 styles"
 	],
 	"official": "https://highlightjs.org/",
-	"similar": {
-		"syntaxhighlighter": "",
-		"shjs": ""
-	}
+	"similar": [
+		{"id": "syntaxhighlighter", "relationship": ""},
+		{"id": "shjs", "relationship": ""}
+	]
 }

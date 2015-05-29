@@ -7,9 +7,9 @@
 	"features": [
 	],
 	"official": "http://linux.die.net/man/1/siege",
-	"similar": {
-		"jmeter": "",
-		"wrk": "",
-		"yandex-tank": ""
-	}
+	"similar": [
+		{"id": "jmeter", "relationship": ""},
+		{"id": "wrk", "relationship": ""},
+		{"id": "yandex-tank", "relationship": ""}
+	]
 }

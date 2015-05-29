@@ -12,13 +12,13 @@
 		"Extensible"
 	],
 	"official": "http://mercurial.selenic.com/",
-	"similar": {
-		"git": "",
-		"perforce": "",
-		"subversion": "",
-		"cvs": "",
-		"clearcase": "",
-		"rcs": "Outdated",
-		"aegis": "Outdated"
-	}
+	"similar": [
+		{"id": "git", "relationship": ""},
+		{"id": "perforce", "relationship": ""},
+		{"id": "subversion", "relationship": ""},
+		{"id": "cvs", "relationship": ""},
+		{"id": "clearcase", "relationship": ""},
+		{"id": "rcs", "relationship": "Outdated"},
+		{"id": "aegis", "relationship": "Outdated"}
+	]
 }

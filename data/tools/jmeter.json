@@ -9,9 +9,9 @@
 		"GUI"
 	],
 	"official": "https://jmeter.apache.org/",
-	"similar": {
-		"siege": "",
-		"wrk": "",
-		"yandex-tank": ""
-	}
+	"similar": [
+		{"id": "siege", "relationship": ""},
+		{"id": "wrk", "relationship": ""},
+		{"id": "yandex-tank", "relationship": ""}
+	]
 }

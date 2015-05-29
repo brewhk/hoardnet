@@ -16,7 +16,10 @@
 		"Actively developed"
 	],
 	"official": "https://github.com/Unitech/pm2",
-	"similar": {
-		"forever": "Allows multi-user support, whereas pm2 is meant for environments where only one person manages the applications"
-	}
+	"similar": [
+		{
+			"id": "forever",
+			"relationship": "Allows multi-user support, whereas pm2 is meant for environments where only one person manages the applications"
+		}
+	]
 }

@@ -11,13 +11,13 @@
 		"Integrates well with other IBM products"
 	],
 	"official": "http://www-03.ibm.com/software/products/en/clearcase",
-	"similar": {
-		"git": "",
-		"mercurial": "",
-		"subversion": "",
-		"cvs": "",
-		"perforce": "",
-		"rcs": "Outdated",
-		"aegis": "Outdated"
-	}
+	"similar": [
+		{ "id": "git", "relationship": ""},
+		{ "id": "mercurial", "relationship": ""},
+		{ "id": "subversion", "relationship": ""},
+		{ "id": "cvs", "relationship": ""},
+		{ "id": "perforce", "relationship": ""},
+		{ "id": "rcs", "relationship": "Outdated"},
+		{ "id": "aegis", "relationship": "Outdated"}
+	]
 }
