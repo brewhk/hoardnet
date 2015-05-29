@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cd ${0%/*};
+
+#validate languages, tools and organizations
+types=("language" "tool" "organization");
+for t in "${types[@]}"; do
+	for f in ../data/${t}s/*.json; do 
+		echo ${f};
+		../node_modules/.bin/jsonlint --quiet --validate ../meta/schema/${t}.schema.json $f;
+	done
+done

@@ -1,0 +1,23 @@
+{
+  "name": "hoardnet",
+  "version": "1.0.0",
+  "description": "A directory of tools commonly used by web developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run-script validate",
+    "validate": "bin/validate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brewcreations/hoardnet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brewcreations/hoardnet/issues"
+  },
+  "homepage": "https://github.com/brewcreations/hoardnet#readme",
+  "devDependencies": {
+    "jsonlint": "^1.6.2"
+  }
+}
