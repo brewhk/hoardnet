@@ -1,0 +1,50 @@
+{
+  "_id": "polymer",
+  "name": "Polymer",
+  "description": "A library for creating custom DOM elements",
+  "summary": "Polimer make it easier and faster to make custom elements that work like standard DOM elements",
+  "tags": [
+    "design"
+  ],
+  "dependencies": [
+    "webcomponents"
+  ],
+  "language": "javascript",
+  "environments": [
+    "browser",
+    "client"
+  ],
+  "audience": [
+    "frontend",
+    "designer"
+  ],
+  "features": [
+    "Encapsulated reusable elements"
+  ],
+  "scenario": [
+    "When you want to build web applications using encapsulated, re-usable elements that work just like HTML elements"
+  ],
+  "website": "https://www.polymer-project.org",
+  "repository": "https://github.com/Polymer/polymer",
+  "demo": "",
+  "similar": [
+    {
+      "id": "riot",
+      "relationship": ""
+    },
+    {
+      "id": "reactjs",
+      "relationship": ""
+    },
+    {
+      "id": "webcomponents",
+      "relationship": "An attempt to create a standard for web components"
+    }
+  ],
+  "usedby": [
+    "google",
+    "salesforce",
+    "github",
+    "mozilla"
+  ]
+}

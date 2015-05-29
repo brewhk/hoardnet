@@ -1,0 +1,65 @@
+{
+  "_id": "mailchimp",
+  "name": "MailChimp",
+  "description": "An email marketing SaaS product",
+  "summary": "",
+  "tags": [
+    "email"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "manager"
+  ],
+  "features": [
+    "Manage mailing lists",
+    "Manage subscriber profiles",
+    "Automation and personalization",
+    "Email analytics",
+    "Email A/B testing"
+  ],
+  "scenario": [
+    "When I want to manage one or more mailing lists for my business",
+    "When I want to securely send my e-mails and avoid the spam folder",
+    "When I want to customize the design of my emails",
+    "When I want to A/B test my email",
+    "When I want to do email marketing professionally"
+  ],
+  "website": "http://mailchimp.com/",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "mandrill",
+      "relationship": "For transactional emails"
+    },
+    {
+      "id": "tinyletter",
+      "relationship": "A free alternative for very small business or personal usage"
+    },
+    {
+      "id": "constantcontact",
+      "relationship": ""
+    },
+    {
+      "id": "emma",
+      "relationship": ""
+    },
+    {
+      "id": "madmimi",
+      "relationship": ""
+    },
+    {
+      "id": "infusionsoft",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "newyorktimes",
+    "billabong",
+    "threadless"
+  ]
+}

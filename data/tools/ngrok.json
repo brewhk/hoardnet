@@ -1,0 +1,49 @@
+{
+  "_id": "ngrok",
+  "name": "ngrok",
+  "description": "A secure tunnels to expose localhost",
+  "summary": "A tool for those who want to easily and securely expose a web server to the internet and capture all traffic for detailed inspection and replay",
+  "tags": [
+    "networking"
+  ],
+  "dependencies": [],
+  "language": "go",
+  "environments": [
+    "client",
+    "windows",
+    "linux",
+    "osx"
+  ],
+  "audience": [
+    "backend",
+    "frontend"
+  ],
+  "features": [
+    "Secure reverse proxy",
+    "Expose http and tcp local services",
+    "Transmit replay and requests over the tunnel"
+  ],
+  "scenario": [
+    "When you want to wxpose any http service behind a NAT or firewall to the internet on a public domain",
+    "When you want to expose any tcp service behind a NAT or firewall to the internet",
+    "When you want to show a website under local development to a collaborator or a customer"
+  ],
+  "website": "https://ngrok.com/",
+  "repository": "https://github.com/inconshreveable/ngrok",
+  "demo": "",
+  "similar": [
+    {
+      "id": "pagekite",
+      "relationship": ""
+    },
+    {
+      "id": "forward",
+      "relationship": ""
+    },
+    {
+      "id": "proxylocal",
+      "relationship": ""
+    }
+  ],
+  "usedby": []
+}
