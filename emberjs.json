@@ -1,0 +1,49 @@
+{
+  "_id": "emberjs",
+  "name": "Ember.JS",
+  "description": "A framework for creating ambitious web applications",
+  "summary": "EmberJS is a frontend Javascript web framework that iams at making web developers more productive and happy",
+  "tags": [
+    "framework"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "client"
+  ],
+  "audience": [
+    "frontend"
+  ],
+  "features": [
+    "Support for handlebars templates",
+    "Convetion based",
+    "Data binding",
+    "Components",
+    "AJAX",
+    "Routing"
+  ],
+  "scenario": [
+    "When you want to develop a single page application"
+  ],
+  "website": "http://emberjs.com/",
+  "repository": "https://github.com/emberjs/ember.js",
+  "demo": "",
+  "similar": [
+    {
+      "id": "angularjs",
+      "relationship": ""
+    },
+    {
+      "id": "reactjs",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "yahoo",
+    "zendesk",
+    "travisci",
+    "square",
+    "discourse",
+    "groupon"
+  ]
+}
