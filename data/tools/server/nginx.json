@@ -1,5 +1,8 @@
 {
 	"name": "nginx",
+	"tags": [
+		"server"
+  	],
 	"language": "c",
 	"environment": "server",
 	"audience": ["sysadmin"],

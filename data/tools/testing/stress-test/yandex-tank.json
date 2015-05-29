@@ -1,5 +1,9 @@
 {
 	"name": "yandex-tank",
+	"tags": [
+		"testing",
+		"stress-test"
+  	],
 	"language": "python",
 	"environment": "server",
 	"audience": ["sysadmin", "backend"],

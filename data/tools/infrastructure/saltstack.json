@@ -1,5 +1,8 @@
 {
 	"name": "saltstack",
+	"tags": [
+		"infrastructure"
+	],
 	"language": "python",
 	"environment": "server",
 	"audience": ["sysadmin"],

@@ -1,5 +1,8 @@
 {
 	"name": "haproxy",
+	"tags": [
+		"server"
+  	],
 	"language": "c",
 	"environment": "server",
 	"audience": ["sysadmin"],

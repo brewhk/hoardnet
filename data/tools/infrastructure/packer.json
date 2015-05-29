@@ -1,5 +1,8 @@
 {
 	"name": "packer",
+	"tags": [
+		"infrastructure"
+	],
 	"language": "go",
 	"environment": "server",
 	"audience": ["sysadmin"],

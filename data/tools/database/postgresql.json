@@ -2,6 +2,9 @@
   "_id": "postgresql",
   "name": "PostgreSQL",
   "description": "A powerful, open source object-relational database system with more than 15 years of active development",
+  "tags": [
+	"database"
+  ],
   "dependencies": [],
   "language": "",
   "environments": [],

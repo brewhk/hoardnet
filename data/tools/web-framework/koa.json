@@ -1,5 +1,8 @@
 {
 	"name": "koa",
+	"tags": [
+		"web-framework"
+  	],
 	"language": "js",
 	"environment": "server",
 	"audience": ["backend"],

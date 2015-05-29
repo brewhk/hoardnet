@@ -10,6 +10,9 @@
 		"osx"
 	],
 	"description": "Redis is an open source, BSD licensed, advanced key-value cache and store",
+	"tags": [
+		"cache"
+	],
 	"features": [
 		"fast",
 		"scalable",

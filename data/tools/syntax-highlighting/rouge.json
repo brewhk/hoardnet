@@ -1,5 +1,8 @@
 {
 	"name": "rouge",
+	"tags": [
+		"syntax-highlighting"
+  	],
 	"language": "ruby",
 	"environment": "server",
 	"audience": "frontend",

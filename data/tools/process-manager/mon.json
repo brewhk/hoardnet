@@ -1,5 +1,8 @@
 {
 	"name": "mon",
+	"tags": [
+		"process-manager"
+	],
 	"language": "js",
 	"environment": "server",
 	"audience": ["sysadmin"],

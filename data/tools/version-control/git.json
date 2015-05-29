@@ -1,5 +1,8 @@
 {
 	"name": "git",
+	"tags": [
+		"version-control"
+  	],
 	"language": "c",
 	"environment": "server",
 	"audience": ["sysadmin", "backend", "frontend"],

@@ -19,6 +19,19 @@
       "description": "A short description of the tool, aim to keep it within 20 words or 120 characters",
       "maxLength": 120
     },
+    "summary": {
+      "type": "string",
+      "description": "A longer description of the tool"
+    },
+    "tags": {
+      "type": "array",
+      "format": "table",
+      "title": "Tags",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
     "dependencies": {
       "type": "array",
       "format": "table",

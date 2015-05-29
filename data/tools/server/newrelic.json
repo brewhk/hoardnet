@@ -2,6 +2,9 @@
   "_id": "newrelic",
   "name": "New Relic",
   "description": "Platform that collects and display massive amounts of real-time data to monitor web apps",
+  "tags": [
+	"server"
+  ],
   "dependencies": [],
   "language": "",
   "environments": [

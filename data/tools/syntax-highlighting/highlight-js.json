@@ -1,5 +1,8 @@
 {
 	"name": "highlight-js",
+	"tags": [
+		"syntax-highlighting"
+  	],
 	"language": "js",
 	"environment": "browser",
 	"audience": "frontend",

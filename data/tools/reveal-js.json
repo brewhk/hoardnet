@@ -1,5 +1,8 @@
 {
 	"name": "reveal-js",
+	"tags": [
+		"presentation"
+  	],
 	"language": "js",
 	"environment": "server",
 	"audience": "",

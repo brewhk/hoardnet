@@ -1,5 +1,8 @@
 {
 	"name": "mercurial",
+	"tags": [
+		"version-control"
+  	],
 	"language": "python",
 	"environment": "server",
 	"audience": ["sysadmin", "backend", "frontend"],

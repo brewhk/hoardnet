@@ -1,5 +1,8 @@
 {
 	"name": "pm2",
+	"tags": [
+		"process-manager"
+	],
 	"language": "js",
 	"environment": "server",
 	"audience": ["sysadmin", "backend"],

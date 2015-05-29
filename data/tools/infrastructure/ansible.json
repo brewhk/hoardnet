@@ -1,6 +1,9 @@
 {
 	"name": "ansible",
 	"language": "python",
+	"tags": [
+		"infrastructure"
+	],
 	"environment": "server",
 	"audience": ["sysadmin"],
 	"description": "",

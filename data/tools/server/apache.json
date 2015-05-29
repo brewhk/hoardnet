@@ -2,6 +2,9 @@
   "_id": "apache",
   "name": "Apache HTTP Server",
   "description": "",
+  "tags": [
+	"server"
+  ],
   "dependencies": [],
   "language": "c",
   "environments": [

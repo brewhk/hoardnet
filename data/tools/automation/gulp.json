@@ -4,6 +4,9 @@
 	"environment": "server",
 	"audience": ["backend", "frontend"],
 	"description": "A task / build runner for automating tasks such as minifying images, css, uglifying js.",
+	"tags": [
+		"automation"
+	],
 	"features": [
 		"Simple syntax and API",
 		"Watches files for changes and live-reloading",

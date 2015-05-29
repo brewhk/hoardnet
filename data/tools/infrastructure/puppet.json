@@ -1,5 +1,8 @@
 {
 	"name": "puppet",
+	"tags": [
+		"infrastructure"
+	],
 	"language": "ruby",
 	"environment": "server",
 	"audience": ["sysadmin"],

@@ -8,11 +8,13 @@ At the moment, this is just a jumble of `.json` files. But the idea is that this
 
 * **_id** *String* - A unique name amongst all the documents - usually the lowercaseCamelCase, space-removed version of the name will do. E.g. express
 * **name** *String* - The human-readable name of the tool
+* **tags** *Array of Strings* - An array of relevant tags for search and categorisation purposes
 * **dependencies** *Array of Strings* - An array of strings with the strings being valid `id` of another document. E.g. ["express", "nodejs"]
 * **language** *String* - Which language is this tool primarily being written in? Must be a valid `id` value from the `Languages` collection
 * **environments** *Array of Strings* - Which environment is this tool used in? (valid values below)
 * **audience** *Array of Strings* - Who would use this tool? (valid values below)
 * **description** *String* - A short description of the tool, aim to keep it within 20 words or 120 characters
+* **summary** *String* - An optional, more exhaustive description of the tool
 * **features** *Array of Strings* - An array listing out features of the tool
 * **scenario** *Array of Strings* - An array listing out the use cases or scenarios where a person would use this tool
 * **website** *String* - The URL to the official site, without the protocol

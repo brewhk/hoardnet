@@ -1,5 +1,8 @@
 {
 	"name": "kafta",
+	"tags": [
+		"messaging"
+  	],
 	"language": "scala",
 	"environment": "server",
 	"audience": "",

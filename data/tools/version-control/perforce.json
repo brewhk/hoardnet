@@ -1,5 +1,8 @@
 {
 	"name": "peforce",
+	"tags": [
+		"version-control"
+  	],
 	"language": "",
 	"environment": "server",
 	"audience": ["sysadmin", "backend", "frontend"],

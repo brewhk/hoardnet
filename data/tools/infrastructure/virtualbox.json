@@ -2,6 +2,9 @@
   "_id": "virtualbox",
   "name": "virtualbox",
   "description": "a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use",
+  "tags": [
+    "infrastructure"
+  ],
   "dependencies": [],
   "language": "",
   "environments": [

@@ -1,5 +1,8 @@
 {
 	"name": "pygments",
+	"tags": [
+		"syntax-highlighting"
+  	],
 	"language": "python",
 	"environment": "server",
 	"audience": "frontend",

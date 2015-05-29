@@ -2,6 +2,9 @@
   "_id": "docker",
   "name": "Docker",
   "description": "An open platform for developers and sysadmins of distributed applications",
+  "tags": [
+    "infrastructure"
+  ],
   "dependencies": [],
   "language": "go",
   "environments": [

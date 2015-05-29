@@ -1,5 +1,8 @@
 {
 	"name": "express",
+	"tags": [
+		"web-framework"
+  	],
 	"language": "js",
 	"environment": "server",
 	"audience": ["backend"],

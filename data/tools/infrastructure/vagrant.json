@@ -2,6 +2,9 @@
   "_id": "vagrant",
   "name": "vagrant",
   "description": "Building and distributing development environments.",
+  "tags": [
+		"infrastructure"
+  ],
   "dependencies": [
     "ruby"
   ],
