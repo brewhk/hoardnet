@@ -15,7 +15,8 @@
     "client"
   ],
   "audience": [
-    "frontend"
+    "frontend",
+    "designer"
   ],
   "features": [
     "Based on ReactJS"
