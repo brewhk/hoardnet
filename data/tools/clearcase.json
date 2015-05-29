@@ -1,23 +1,48 @@
 {
-	"name": "clearcase",
-	"tags": [
-		"version-control"
-  	],
-	"language": "",
-	"environment": "server",
-	"audience": ["sysadmin", "backend", "frontend"],
-	"description": "Provides version control, workspace management, parallel development support, and build auditing",
-	"features": [
-		"Integrates well with other IBM products"
-	],
-	"official": "http://www-03.ibm.com/software/products/en/clearcase",
-	"similar": [
-		{ "id": "git", "relationship": ""},
-		{ "id": "mercurial", "relationship": ""},
-		{ "id": "subversion", "relationship": ""},
-		{ "id": "cvs", "relationship": ""},
-		{ "id": "perforce", "relationship": ""},
-		{ "id": "rcs", "relationship": "Outdated"},
-		{ "id": "aegis", "relationship": "Outdated"}
-	]
+  "name": "clearcase",
+  "tags": [
+    "version-control"
+  ],
+  "language": "",
+  "environment": "server",
+  "audience": [
+    "sysadmin",
+    "backend",
+    "frontend"
+  ],
+  "description": "Provides version control, workspace management, parallel development support, and build auditing",
+  "features": [
+    "Integrates well with other IBM products"
+  ],
+  "official": "http://www-03.ibm.com/software/products/en/clearcase",
+  "similar": [
+    {
+      "id": "git",
+      "relationship": ""
+    },
+    {
+      "id": "mercurial",
+      "relationship": ""
+    },
+    {
+      "id": "subversion",
+      "relationship": ""
+    },
+    {
+      "id": "cvs",
+      "relationship": ""
+    },
+    {
+      "id": "perforce",
+      "relationship": ""
+    },
+    {
+      "id": "rcs",
+      "relationship": "Outdated"
+    },
+    {
+      "id": "aegis",
+      "relationship": "Outdated"
+    }
+  ]
 }

@@ -1,9 +1,9 @@
 {
-	"_id": "facebook",
-	"name": "Facebook",
-	"social": {
-		"twitter": "facebook",
-		"github": "facebook",
-		"facebook": "facebook"
-	}
+  "_id": "facebook",
+  "name": "Facebook",
+  "social": {
+    "twitter": "facebook",
+    "github": "facebook",
+    "facebook": "facebook"
+  }
 }

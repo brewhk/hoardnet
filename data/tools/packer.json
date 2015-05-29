@@ -1,20 +1,34 @@
 {
-	"name": "packer",
-	"tags": [
-		"infrastructure"
-	],
-	"language": "go",
-	"environment": "server",
-	"audience": ["sysadmin"],
-	"description": "A tool for creating identical machine images for multiple platforms from a single source configuration.",
-	"features": [
-		"Supports Amazon EC2, DigitalOcean, Google Compute Engine, QEMU, VirtualBox, VMware, and more"
-	],
-	"official": "https://www.packer.io/",
-	"similar": [
-		{"id": "puppet", "relationship": ""},
-		{"id": "chef", "relationship": ""},
-		{"id": "saltstack", "relationship": ""},
-		{"id": "ansible", "relationship": ""}
-	]
+  "name": "packer",
+  "tags": [
+    "infrastructure"
+  ],
+  "language": "go",
+  "environment": "server",
+  "audience": [
+    "sysadmin"
+  ],
+  "description": "A tool for creating identical machine images for multiple platforms from a single source configuration.",
+  "features": [
+    "Supports Amazon EC2, DigitalOcean, Google Compute Engine, QEMU, VirtualBox, VMware, and more"
+  ],
+  "official": "https://www.packer.io/",
+  "similar": [
+    {
+      "id": "puppet",
+      "relationship": ""
+    },
+    {
+      "id": "chef",
+      "relationship": ""
+    },
+    {
+      "id": "saltstack",
+      "relationship": ""
+    },
+    {
+      "id": "ansible",
+      "relationship": ""
+    }
+  ]
 }

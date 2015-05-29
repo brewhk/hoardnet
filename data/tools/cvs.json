@@ -1,24 +1,49 @@
 {
-	"name": "cvs",
-	"tags": [
-		"version-control"
-  	],
-	"language": "",
-	"environment": "server",
-	"audience": ["sysadmin", "backend", "frontend"],
-	"description": "Version control system (VCS) that records the history of sources files",
-	"features": [
-		"Uses deltas",
-		"Depends on Revision Control System (RCS)"
-	],
-	"official": "http://www.nongnu.org/cvs/",
-	"similar": [
-		{"id": "git", "relationship": ""},
-		{"id": "mercurial", "relationship": ""},
-		{"id": "subversion", "relationship": ""},
-		{"id": "perforce", "relationship": ""},
-		{"id": "clearcase", "relationship": ""},
-		{"id": "rcs", "relationship": "Outadated"},
-		{"id": "aegis", "relationship": "Outadated"}
-	]
+  "name": "cvs",
+  "tags": [
+    "version-control"
+  ],
+  "language": "",
+  "environment": "server",
+  "audience": [
+    "sysadmin",
+    "backend",
+    "frontend"
+  ],
+  "description": "Version control system (VCS) that records the history of sources files",
+  "features": [
+    "Uses deltas",
+    "Depends on Revision Control System (RCS)"
+  ],
+  "official": "http://www.nongnu.org/cvs/",
+  "similar": [
+    {
+      "id": "git",
+      "relationship": ""
+    },
+    {
+      "id": "mercurial",
+      "relationship": ""
+    },
+    {
+      "id": "subversion",
+      "relationship": ""
+    },
+    {
+      "id": "perforce",
+      "relationship": ""
+    },
+    {
+      "id": "clearcase",
+      "relationship": ""
+    },
+    {
+      "id": "rcs",
+      "relationship": "Outadated"
+    },
+    {
+      "id": "aegis",
+      "relationship": "Outadated"
+    }
+  ]
 }

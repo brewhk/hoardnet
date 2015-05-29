@@ -2,4 +2,11 @@
 
 cd ${0%/*};
 
-# TODO
+#format languages, tools and organizations
+types=("language" "tool" "organization");
+for t in "${types[@]}"; do
+	for f in ../data/${t}s/*.json; do 
+		echo ${f};
+		../node_modules/.bin/jsonlint --quiet --in-place $f;
+	done
+done

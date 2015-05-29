@@ -1,24 +1,49 @@
 {
-	"name": "mercurial",
-	"tags": [
-		"version-control"
-  	],
-	"language": "python",
-	"environment": "server",
-	"audience": ["sysadmin", "backend", "frontend"],
-	"description": "Distrubuted Version control system (VCS)",
-	"features": [
-		"Multiple workflows",
-		"Extensible"
-	],
-	"official": "http://mercurial.selenic.com/",
-	"similar": [
-		{"id": "git", "relationship": ""},
-		{"id": "perforce", "relationship": ""},
-		{"id": "subversion", "relationship": ""},
-		{"id": "cvs", "relationship": ""},
-		{"id": "clearcase", "relationship": ""},
-		{"id": "rcs", "relationship": "Outdated"},
-		{"id": "aegis", "relationship": "Outdated"}
-	]
+  "name": "mercurial",
+  "tags": [
+    "version-control"
+  ],
+  "language": "python",
+  "environment": "server",
+  "audience": [
+    "sysadmin",
+    "backend",
+    "frontend"
+  ],
+  "description": "Distrubuted Version control system (VCS)",
+  "features": [
+    "Multiple workflows",
+    "Extensible"
+  ],
+  "official": "http://mercurial.selenic.com/",
+  "similar": [
+    {
+      "id": "git",
+      "relationship": ""
+    },
+    {
+      "id": "perforce",
+      "relationship": ""
+    },
+    {
+      "id": "subversion",
+      "relationship": ""
+    },
+    {
+      "id": "cvs",
+      "relationship": ""
+    },
+    {
+      "id": "clearcase",
+      "relationship": ""
+    },
+    {
+      "id": "rcs",
+      "relationship": "Outdated"
+    },
+    {
+      "id": "aegis",
+      "relationship": "Outdated"
+    }
+  ]
 }

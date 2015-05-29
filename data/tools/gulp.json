@@ -1,22 +1,25 @@
 {
-	"name": "gulp",
-	"language": "js",
-	"environment": "server",
-	"audience": ["backend", "frontend"],
-	"description": "A task / build runner for automating tasks such as minifying images, css, uglifying js.",
-	"tags": [
-		"automation"
-	],
-	"features": [
-		"Simple syntax and API",
-		"Watches files for changes and live-reloading",
-		"Uses streams"
-	],
-	"official": "http://gulpjs.com/",
-	"similar": [
-		{
-			"id": "grunt",
-			"relationship": "Gulp has a simpler syntax to Grunt"
-		}
-	]
+  "name": "gulp",
+  "language": "js",
+  "environment": "server",
+  "audience": [
+    "backend",
+    "frontend"
+  ],
+  "description": "A task / build runner for automating tasks such as minifying images, css, uglifying js.",
+  "tags": [
+    "automation"
+  ],
+  "features": [
+    "Simple syntax and API",
+    "Watches files for changes and live-reloading",
+    "Uses streams"
+  ],
+  "official": "http://gulpjs.com/",
+  "similar": [
+    {
+      "id": "grunt",
+      "relationship": "Gulp has a simpler syntax to Grunt"
+    }
+  ]
 }

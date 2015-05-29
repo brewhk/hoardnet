@@ -1,18 +1,28 @@
 {
-	"name": "chef",
-	"tags": [
-		"infrastructure"
-	],
-	"language": "ruby",
-	"environment": "server",
-	"audience": ["sysadmin"],
-	"description": "Automatically ensures every machine in your infrastructure has the same configuration",
-	"features": [
-	],
-	"official": "https://www.chef.io/",
-	"similar": [
-		{"id": "saltstack", "relationship": "" },
-		{"id": "puppet", "relationship": "" },
-		{"id": "ansible", "relationship": "" }
-	]
+  "name": "chef",
+  "tags": [
+    "infrastructure"
+  ],
+  "language": "ruby",
+  "environment": "server",
+  "audience": [
+    "sysadmin"
+  ],
+  "description": "Automatically ensures every machine in your infrastructure has the same configuration",
+  "features": [],
+  "official": "https://www.chef.io/",
+  "similar": [
+    {
+      "id": "saltstack",
+      "relationship": ""
+    },
+    {
+      "id": "puppet",
+      "relationship": ""
+    },
+    {
+      "id": "ansible",
+      "relationship": ""
+    }
+  ]
 }

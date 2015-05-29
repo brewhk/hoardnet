@@ -1,22 +1,24 @@
 {
-	"name": "rouge",
-	"tags": [
-		"syntax-highlighting"
-  	],
-	"language": "ruby",
-	"environment": "server",
-	"audience": ["frontend"],
-	"description": "A generic syntax highlighter that parses code blocks and style them on the server",
-	"features": [
-		"Integrates with Jekyll",
-		"Compatible with stylesheets generated for Pygments",
-		"Supports 60+ languages"
-	],
-	"official": "http://rouge.jneen.net/",
-	"similar": [
-		{
-			"id": "pygments",
-			"relationship": "Equivalent in Python"
-		}
-	]
+  "name": "rouge",
+  "tags": [
+    "syntax-highlighting"
+  ],
+  "language": "ruby",
+  "environment": "server",
+  "audience": [
+    "frontend"
+  ],
+  "description": "A generic syntax highlighter that parses code blocks and style them on the server",
+  "features": [
+    "Integrates with Jekyll",
+    "Compatible with stylesheets generated for Pygments",
+    "Supports 60+ languages"
+  ],
+  "official": "http://rouge.jneen.net/",
+  "similar": [
+    {
+      "id": "pygments",
+      "relationship": "Equivalent in Python"
+    }
+  ]
 }

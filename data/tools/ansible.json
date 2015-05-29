@@ -1,19 +1,30 @@
 {
-	"name": "ansible",
-	"language": "python",
-	"tags": [
-		"infrastructure"
-	],
-	"environment": "server",
-	"audience": ["sysadmin"],
-	"description": "",
-	"features": [
-		"Good documentation"
-	],
-	"official": "http://www.ansible.com/",
-	"similar": [
-		{ "id": "puppet", "relationship": "" },
-		{ "id": "chef", "relationship": "" },
-		{ "id": "saltstack","relationship": "" }
-	]
+  "name": "ansible",
+  "language": "python",
+  "tags": [
+    "infrastructure"
+  ],
+  "environment": "server",
+  "audience": [
+    "sysadmin"
+  ],
+  "description": "",
+  "features": [
+    "Good documentation"
+  ],
+  "official": "http://www.ansible.com/",
+  "similar": [
+    {
+      "id": "puppet",
+      "relationship": ""
+    },
+    {
+      "id": "chef",
+      "relationship": ""
+    },
+    {
+      "id": "saltstack",
+      "relationship": ""
+    }
+  ]
 }

@@ -3,7 +3,7 @@
   "name": "vagrant",
   "description": "Building and distributing development environments.",
   "tags": [
-		"infrastructure"
+    "infrastructure"
   ],
   "dependencies": [
     "ruby"

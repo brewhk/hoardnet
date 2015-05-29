@@ -1,22 +1,33 @@
 {
-	"name": "saltstack",
-	"tags": [
-		"infrastructure"
-	],
-	"language": "python",
-	"environment": "server",
-	"audience": ["sysadmin"],
-	"description": "Infrastructure automation and management system",
-	"features": [
-		"Scalable",
-		"Reporting and Auditing",
-		"Graphical User Interface",
-		"User permissions"
-	],
-	"official": "http://saltstack.com/",
-	"similar": [
-		{"id": "puppet", "relationship": ""},
-		{"id": "chef", "relationship": ""},
-		{"id": "ansible", "relationship": ""}
-	]
+  "name": "saltstack",
+  "tags": [
+    "infrastructure"
+  ],
+  "language": "python",
+  "environment": "server",
+  "audience": [
+    "sysadmin"
+  ],
+  "description": "Infrastructure automation and management system",
+  "features": [
+    "Scalable",
+    "Reporting and Auditing",
+    "Graphical User Interface",
+    "User permissions"
+  ],
+  "official": "http://saltstack.com/",
+  "similar": [
+    {
+      "id": "puppet",
+      "relationship": ""
+    },
+    {
+      "id": "chef",
+      "relationship": ""
+    },
+    {
+      "id": "ansible",
+      "relationship": ""
+    }
+  ]
 }

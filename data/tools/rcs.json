@@ -1,23 +1,48 @@
 {
-	"name": "rcs",
-	"tags": [
-		"version-control"
-  	],
-	"language": "",
-	"environment": "server",
-	"audience": ["sysadmin", "backend", "frontend"],
-	"description": "Version control system (VCS)",
-	"features": [
-		"One of the first VCS, developed in 1980s"
-	],
-	"official": "https://www.gnu.org/software/rcs/",
-	"similar": [
-		{"id": "git", "relationship": ""},
-		{"id": "perforce", "relationship": ""},
-		{"id": "subversion", "relationship": ""},
-		{"id": "cvs", "relationship": ""},
-		{"id": "clearcase", "relationship": ""},
-		{"id": "mercurial", "relationship": ""},
-		{"id": "aegis", "relationship": "Outdated"}
-	]
+  "name": "rcs",
+  "tags": [
+    "version-control"
+  ],
+  "language": "",
+  "environment": "server",
+  "audience": [
+    "sysadmin",
+    "backend",
+    "frontend"
+  ],
+  "description": "Version control system (VCS)",
+  "features": [
+    "One of the first VCS, developed in 1980s"
+  ],
+  "official": "https://www.gnu.org/software/rcs/",
+  "similar": [
+    {
+      "id": "git",
+      "relationship": ""
+    },
+    {
+      "id": "perforce",
+      "relationship": ""
+    },
+    {
+      "id": "subversion",
+      "relationship": ""
+    },
+    {
+      "id": "cvs",
+      "relationship": ""
+    },
+    {
+      "id": "clearcase",
+      "relationship": ""
+    },
+    {
+      "id": "mercurial",
+      "relationship": ""
+    },
+    {
+      "id": "aegis",
+      "relationship": "Outdated"
+    }
+  ]
 }

@@ -1,15 +1,17 @@
 {
-	"name": "varnish",
-	"tags": [
-		"server"
-  	],
-	"language": "c",
-	"environment": "server",
-	"audience": ["sysadmin"],
-	"description": "A fast cache proxy server",
-	"features": [
-		"In-memory cache"
-	],
-	"official": "https://www.varnish-cache.org/",
-	"similar": []
+  "name": "varnish",
+  "tags": [
+    "server"
+  ],
+  "language": "c",
+  "environment": "server",
+  "audience": [
+    "sysadmin"
+  ],
+  "description": "A fast cache proxy server",
+  "features": [
+    "In-memory cache"
+  ],
+  "official": "https://www.varnish-cache.org/",
+  "similar": []
 }

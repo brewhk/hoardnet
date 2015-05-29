@@ -1,27 +1,52 @@
 {
-	"name": "peforce",
-	"tags": [
-		"version-control"
-  	],
-	"language": "",
-	"environment": "server",
-	"audience": ["sysadmin", "backend", "frontend"],
-	"description": "Distrubuted Version control system (VCS) integrated with visualization tools",
-	"features": [
-		"Uses Git - All the power of Git",
-		"Most similar to GitHub",
-		"Visualization tools - branch, merging",
-		"Issue tracking",
-		"Wiki"
-	],
-	"official": "http://www.perforce.com/",
-	"similar": [
-		{"id": "git", "relationship": ""},
-		{"id": "mercurial", "relationship": ""},
-		{"id": "subversion", "relationship": ""},
-		{"id": "cvs", "relationship": ""},
-		{"id": "clearcase", "relationship": ""},
-		{"id": "rcs", "relationship": "Outdated"},
-		{"id": "aegis", "relationship": "Outdated"}
-	]
+  "name": "peforce",
+  "tags": [
+    "version-control"
+  ],
+  "language": "",
+  "environment": "server",
+  "audience": [
+    "sysadmin",
+    "backend",
+    "frontend"
+  ],
+  "description": "Distrubuted Version control system (VCS) integrated with visualization tools",
+  "features": [
+    "Uses Git - All the power of Git",
+    "Most similar to GitHub",
+    "Visualization tools - branch, merging",
+    "Issue tracking",
+    "Wiki"
+  ],
+  "official": "http://www.perforce.com/",
+  "similar": [
+    {
+      "id": "git",
+      "relationship": ""
+    },
+    {
+      "id": "mercurial",
+      "relationship": ""
+    },
+    {
+      "id": "subversion",
+      "relationship": ""
+    },
+    {
+      "id": "cvs",
+      "relationship": ""
+    },
+    {
+      "id": "clearcase",
+      "relationship": ""
+    },
+    {
+      "id": "rcs",
+      "relationship": "Outdated"
+    },
+    {
+      "id": "aegis",
+      "relationship": "Outdated"
+    }
+  ]
 }

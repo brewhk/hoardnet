@@ -1,25 +1,50 @@
 {
-	"name": "git",
-	"tags": [
-		"version-control"
-  	],
-	"language": "c",
-	"environment": "server",
-	"audience": ["sysadmin", "backend", "frontend"],
-	"description": "Distributed version control system (DVCS) that records the history of sources files",
-	"features": [
-		"Cheap local branching",
-		"Convenient staging areas",
-		"Multiple workflows"
-	],
-	"official": "http://git-scm.com/",
-	"similar": [
-		{"id": "mercurial", "relationship": ""},
-		{"id": "subversion", "relationship": ""},
-		{"id": "cvs", "relationship": ""},
-		{"id": "perforce", "relationship": ""},
-		{"id": "clearcase", "relationship": ""},
-		{"id": "rcs", "relationship": "Outdated"},
-		{"id": "aegis", "relationship": "Outdated"}
-	]
+  "name": "git",
+  "tags": [
+    "version-control"
+  ],
+  "language": "c",
+  "environment": "server",
+  "audience": [
+    "sysadmin",
+    "backend",
+    "frontend"
+  ],
+  "description": "Distributed version control system (DVCS) that records the history of sources files",
+  "features": [
+    "Cheap local branching",
+    "Convenient staging areas",
+    "Multiple workflows"
+  ],
+  "official": "http://git-scm.com/",
+  "similar": [
+    {
+      "id": "mercurial",
+      "relationship": ""
+    },
+    {
+      "id": "subversion",
+      "relationship": ""
+    },
+    {
+      "id": "cvs",
+      "relationship": ""
+    },
+    {
+      "id": "perforce",
+      "relationship": ""
+    },
+    {
+      "id": "clearcase",
+      "relationship": ""
+    },
+    {
+      "id": "rcs",
+      "relationship": "Outdated"
+    },
+    {
+      "id": "aegis",
+      "relationship": "Outdated"
+    }
+  ]
 }

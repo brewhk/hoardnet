@@ -1,25 +1,28 @@
 {
-	"name": "pm2",
-	"tags": [
-		"process-manager"
-	],
-	"language": "js",
-	"environment": "server",
-	"audience": ["sysadmin", "backend"],
-	"description": "A production process manager that ensures your application stays running",
-	"features": [
-		"Load balancing",
-		"Log aggregation",
-		"Clustering",
-		"Terminal monitoring",
-		"Configuration using JSON",
-		"Actively developed"
-	],
-	"official": "https://github.com/Unitech/pm2",
-	"similar": [
-		{
-			"id": "forever",
-			"relationship": "Allows multi-user support, whereas pm2 is meant for environments where only one person manages the applications"
-		}
-	]
+  "name": "pm2",
+  "tags": [
+    "process-manager"
+  ],
+  "language": "js",
+  "environment": "server",
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "description": "A production process manager that ensures your application stays running",
+  "features": [
+    "Load balancing",
+    "Log aggregation",
+    "Clustering",
+    "Terminal monitoring",
+    "Configuration using JSON",
+    "Actively developed"
+  ],
+  "official": "https://github.com/Unitech/pm2",
+  "similar": [
+    {
+      "id": "forever",
+      "relationship": "Allows multi-user support, whereas pm2 is meant for environments where only one person manages the applications"
+    }
+  ]
 }

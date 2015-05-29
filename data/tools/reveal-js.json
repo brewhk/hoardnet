@@ -1,21 +1,24 @@
 {
-	"name": "reveal-js",
-	"tags": [
-		"presentation"
-  	],
-	"language": "js",
-	"environment": "server",
-	"description": "The HTML Presentation Framework - Allows you to write slideshows in HTML and Markdown",
-	"features": [
-		"Supports transitions, themes, videos, GIF",
-		"Supports keyboard shortcuts",
-		"Supports blank screens",
-		"Speaker's View - Shows timer and next slide",
-		"Exports to PDF",
-		"Supports touch devices"
-	],
-	"official": "http://lab.hakim.se/reveal-js/",
-	"similar": [
-		{"id": "slides", "relationship": "The online version with visual editor"}
-	]
+  "name": "reveal-js",
+  "tags": [
+    "presentation"
+  ],
+  "language": "js",
+  "environment": "server",
+  "description": "The HTML Presentation Framework - Allows you to write slideshows in HTML and Markdown",
+  "features": [
+    "Supports transitions, themes, videos, GIF",
+    "Supports keyboard shortcuts",
+    "Supports blank screens",
+    "Speaker's View - Shows timer and next slide",
+    "Exports to PDF",
+    "Supports touch devices"
+  ],
+  "official": "http://lab.hakim.se/reveal-js/",
+  "similar": [
+    {
+      "id": "slides",
+      "relationship": "The online version with visual editor"
+    }
+  ]
 }

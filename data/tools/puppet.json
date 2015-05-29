@@ -1,18 +1,28 @@
 {
-	"name": "puppet",
-	"tags": [
-		"infrastructure"
-	],
-	"language": "ruby",
-	"environment": "server",
-	"audience": ["sysadmin"],
-	"description": "Server automation tool that performs administrative tasks",
-	"features": [
-	],
-	"official": "https://puppetlabs.com/",
-	"similar": [
-		{"id": "saltstack", "relationship": ""},
-		{"id": "chef", "relationship": ""},
-		{"id": "ansible", "relationship": ""}
-	]
+  "name": "puppet",
+  "tags": [
+    "infrastructure"
+  ],
+  "language": "ruby",
+  "environment": "server",
+  "audience": [
+    "sysadmin"
+  ],
+  "description": "Server automation tool that performs administrative tasks",
+  "features": [],
+  "official": "https://puppetlabs.com/",
+  "similar": [
+    {
+      "id": "saltstack",
+      "relationship": ""
+    },
+    {
+      "id": "chef",
+      "relationship": ""
+    },
+    {
+      "id": "ansible",
+      "relationship": ""
+    }
+  ]
 }
