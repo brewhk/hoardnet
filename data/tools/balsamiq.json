@@ -1,0 +1,55 @@
+{
+  "_id": "balsamiq",
+  "name": "Balsamiq",
+  "description": "A web based mock up tool for designers",
+  "summary": "Balsamiq Mockups is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.",
+  "tags": [
+    "design",
+    "mockup"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend",
+    "designer"
+  ],
+  "features": [
+    "Wide collection of UI elements that cab just be drag-and-dropped",
+    "Share your design easily to get feedbacks",
+    "Version management for quick iterations",
+    "User tests"
+  ],
+  "scenario": [
+    "When you want to draw a mockup and get customer feedbacks",
+    "When you follow a customer centric design approach and need a proper tool for your mockups"
+  ],
+  "website": "https://balsamiq.com/",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "mockingbird",
+      "relationship": ""
+    },
+    {
+      "id": "invision",
+      "relationship": ""
+    },
+    {
+      "id": "fluidui",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "apple",
+    "adobe",
+    "cisco",
+    "dropbox",
+    "sony",
+    "ebay",
+    "skype"
+  ]
+}

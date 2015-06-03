@@ -1,0 +1,52 @@
+{
+  "_id": "uservoice",
+  "name": "UserVoice",
+  "description": "A feedback, helpdesk and knowledge base Software as a Service",
+  "summary": "UserVoice Feedback collects and prioritizes suggestions from customers as they list ideas and vote on them. UserVoice HelpDesk is a support tool for tracking and responding to customer issues.",
+  "tags": [
+    "question-answer"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "manager",
+    "qa"
+  ],
+  "features": [
+    "Easy product management and customer support",
+    "Collect feedbacks from different sources",
+    "Manage roadmaps and track data"
+  ],
+  "scenario": [
+    "When you want to allow your customers to select the next big feature of your product",
+    "When you want to offer an help desk for easy ticket-based support",
+    "When you want to interactively communicate with your customers"
+  ],
+  "website": "https://www.uservoice.com",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "getsatisfaction",
+      "relationship": ""
+    },
+    {
+      "id": "freshdesk",
+      "relationship": ""
+    },
+    {
+      "id": "zendesk",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "microsoft",
+    "fullcontact",
+    "zynga",
+    "facebook",
+    "intercom"
+  ]
+}
