@@ -1,0 +1,52 @@
+{
+  "_id": "heroku",
+  "name": "Heroku",
+  "description": "A cloud platform as a service (PaaS) supporting several programming languages",
+  "summary": "Heroku is a cloud platform as a service supporting Ruby, Java, Node.js, Scala, Clojure, Python and PHP",
+  "tags": [
+    "server"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "Git push-based deployment",
+    "Easy configuration to manage environments",
+    "Decentralized approach to run web apps and workers",
+    "Extendible application based on build packs",
+    "Command line and web APIs available for greater and deeper interaction"
+  ],
+  "scenario": [
+    "When you are used to git and need an easy way to deploy your app",
+    "When you need an optimized and decentralized infrastructure to deploy your apps",
+    "When you want to focus on the development of your app and not on the infrastructure (optimal for small startups)"
+  ],
+  "website": "https://www.heroku.com",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "pagodabox",
+      "relationship": "An heroku alternative built especially for php developers"
+    },
+    {
+      "id": "appengine",
+      "relationship": "An heroku alternative built by Google using google technology and infrastructure"
+    },
+    {
+      "id": "clevercloud",
+      "relationship": "An heroku alternative with a particular regard for Python"
+    }
+  ],
+  "usedby": [
+    "salesforce",
+    "ello",
+    "toyota"
+  ]
+}

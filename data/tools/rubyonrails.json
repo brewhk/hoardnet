@@ -1,0 +1,62 @@
+{
+  "_id": "rubyonrails",
+  "name": "Ruby on Rails",
+  "description": "An MVC web development framework for Ruby developers",
+  "summary": "Ruby on Rails is an open-source web framework that’s optimized for programmer happiness and sustainable productivity. It lets you write beautiful code by favoring convention over configuration.",
+  "tags": [
+    "framework"
+  ],
+  "dependencies": [
+    "ruby"
+  ],
+  "language": "ruby",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "backend"
+  ],
+  "features": [
+    "Fully fledged MVC architecture",
+    "Active record pattern for database abstraction",
+    "Don't repeat yourself approach",
+    "Huge number of integrated libraries available"
+  ],
+  "scenario": [
+    "When you want to build a web application using Ruby",
+    "When you want to create a new web project leveraging the MVC pattern",
+    "When you want to leverage the Active Records patterns to abstract the database in your web app",
+    "When you want to build an Http API really fast"
+  ],
+  "website": "http://rubyonrails.org",
+  "repository": "https://github.com/rails/rails",
+  "demo": "http://railsforzombies.org",
+  "similar": [
+    {
+      "id": "django",
+      "relationship": "An MVC framework for pythonists"
+    },
+    {
+      "id": "symfony",
+      "relationship": "An MVC framework for php lovers"
+    },
+    {
+      "id": "cuba",
+      "relationship": "A web microframework written in Ruby"
+    },
+    {
+      "id": "sinatra",
+      "relationship": "Another web microframework for rubysts"
+    },
+    {
+      "id": "volt",
+      "relationship": "A ruby web framework supporting ruby to javascript compilation"
+    }
+  ],
+  "usedby": [
+    "basecamp",
+    "twitter",
+    "shopify",
+    "github"
+  ]
+}
