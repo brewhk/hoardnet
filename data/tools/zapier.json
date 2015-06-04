@@ -1,0 +1,56 @@
+{
+  "_id": "zapier",
+  "name": "Zapier",
+  "description": "Zapier connects the web apps you use to easily move your data and automate tedious tasks.",
+  "summary": "",
+  "tags": [
+    "automation",
+    "integration"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "backend",
+    "manager"
+  ],
+  "features": [
+    "Connect the apps you use to easily move data between them",
+    "More than 400 supported apps"
+  ],
+  "scenario": [
+    "When you need to connect/integrate different web services or APIs and you don't want to write code"
+  ],
+  "website": "https://zapier.com/",
+  "repository": "",
+  "demo": "",
+  "similar": [
+    {
+      "id": "stamplay",
+      "relationship": ""
+    },
+    {
+      "id": "cloudwork",
+      "relationship": ""
+    },
+    {
+      "id": "elasticio",
+      "relationship": ""
+    },
+    {
+      "id": "workato",
+      "relationship": ""
+    },
+    {
+      "id": "ifttt",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "buzzfeed",
+    "groupon",
+    "spotify"
+  ]
+}

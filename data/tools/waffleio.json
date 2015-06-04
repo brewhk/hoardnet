@@ -1,0 +1,35 @@
+{
+  "_id": "waffleio",
+  "name": "Waffle.io",
+  "description": "Waffle creates a full project management solution from your existing GitHub Issues",
+  "summary": "",
+  "tags": [
+    "project-management"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "manager"
+  ],
+  "features": [
+    "Track Your Work Automatically",
+    "Shows your GitHub Issues and Pull Requests in real time",
+    "Integrated with GitHub",
+    "Support for milestones",
+    "Customizable workflow"
+  ],
+  "scenario": [
+    "When you want to manage your Github issues easily"
+  ],
+  "website": "https://waffle.io",
+  "repository": "",
+  "demo": "https://waffle.io",
+  "similar": [],
+  "usedby": [
+    "dropoly",
+    "teamsnap"
+  ]
+}

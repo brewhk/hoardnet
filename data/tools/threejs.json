@@ -1,0 +1,41 @@
+{
+  "_id": "threejs",
+  "name": "three.js",
+  "description": "A JavaScript 3D Library which makes WebGL simpler",
+  "summary": "Three.js is a lightweight cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser. Three.js uses WebGL.",
+  "tags": [
+    "graphics",
+    "animation",
+    "design"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "browser",
+    "client"
+  ],
+  "audience": [],
+  "features": [
+    "Effects: Anaglyph, cross-eyed and parallax barrier",
+    "Scenes: add and remove objects at run-time; fog",
+    "Cameras: perspective and orthographic; controllers: trackball, FPS, path and more",
+    "Animation: armatures, forward kinematics, inverse kinematics, morph and keyframe",
+    "Lights: ambient, direction, point and spot lights; shadows: cast and receive"
+  ],
+  "scenario": [
+    "When you want to create a website with 3d graphics and effects"
+  ],
+  "website": "http://threejs.org",
+  "repository": "https://github.com/mrdoob/three.js",
+  "demo": "http://threejs.org",
+  "similar": [
+    {
+      "id": "babylonjs",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "google",
+    "sony"
+  ]
+}
