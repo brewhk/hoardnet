@@ -1,0 +1,38 @@
+{
+  "_id": "babylonjs",
+  "name": "Babylon.js",
+  "description": "A javascript WebGL library",
+  "summary": "Babylon.js is a complete JavaScript framework for building 3D scenes and games with HTML5 and WebGL",
+  "tags": [
+    "3d",
+    "graphics"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend"
+  ],
+  "features": [
+    "Complete scene graph with lights, cameras, materials and meshes",
+    "Collisions and Physics engines",
+    "Antialiasing",
+    "Animation engine",
+    "Particles Systems"
+  ],
+  "scenario": [
+    "When you want to create an interactive 3d environment for the browser without using third party plugins"
+  ],
+  "website": "http://www.babylonjs.com/",
+  "repository": "https://github.com/BabylonJS/Babylon.js",
+  "demo": "http://www.babylonjs-playground.com/",
+  "similar": [
+    {
+      "id": "threejs",
+      "relationship": ""
+    }
+  ],
+  "usedby": []
+}

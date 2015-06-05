@@ -1,0 +1,39 @@
+{
+  "_id": "keybase",
+  "name": "Keybase",
+  "description": "Get a public key, safely, starting just with someone's social media username",
+  "summary": "Keybase help make using keys more secure and understandable by providing what's known as public key infrastructure (PKI) for cryptography.",
+  "tags": [
+    "security",
+    "cryptography"
+  ],
+  "dependencies": [
+    "nodejs"
+  ],
+  "language": "",
+  "environments": [
+    "browser",
+    "server",
+    "windows",
+    "linux",
+    "osx"
+  ],
+  "audience": [
+    "manager"
+  ],
+  "features": [
+    "People directory",
+    "Associate public key to social profile",
+    "Web based app",
+    "Command line app"
+  ],
+  "scenario": [
+    "When I want to associate my public key to my social profile",
+    "When I want to find out a public key of someone I want to send an encrypted message to"
+  ],
+  "website": "https://keybase.io",
+  "repository": "https://github.com/keybase",
+  "demo": "",
+  "similar": [],
+  "usedby": []
+}
