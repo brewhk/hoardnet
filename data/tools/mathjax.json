@@ -1,0 +1,30 @@
+{
+  "_id": "mathjax",
+  "name": "MathJax",
+  "description": "An open-source JavaScript display engine for LaTeX, MathML, and AsciiMath",
+  "summary": "",
+  "tags": [
+    "visualization"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend"
+  ],
+  "features": [
+    "High-quality typography",
+    "Modular Input & Output",
+    "Accessible & reusable"
+  ],
+  "scenario": [
+    "When you want to display a mathematical formula in a web page and preserve accessibility"
+  ],
+  "website": "https://www.mathjax.org",
+  "repository": "https://github.com/mathjax/MathJax",
+  "demo": "https://www.mathjax.org/",
+  "similar": [],
+  "usedby": []
+}

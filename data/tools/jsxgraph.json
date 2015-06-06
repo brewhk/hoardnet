@@ -1,0 +1,31 @@
+{
+  "_id": "jsxgraph",
+  "name": "JSXGraph",
+  "description": "Interactive Geometry, plotting, visualization for the web",
+  "summary": "JSXGraph is a cross-browser library for interactive geometry, function plotting, charting, and data visualization in a web browser",
+  "tags": [
+    "visualization"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend"
+  ],
+  "features": [
+    "Interactive geometry, function plotting, charting, and data visualization",
+    "Supports multitouch devices",
+    "Easy to embed",
+    "Small footprint"
+  ],
+  "scenario": [
+    "When you want to plot an interactive graph on a web page"
+  ],
+  "website": "http://jsxgraph.uni-bayreuth.de/",
+  "repository": "https://github.com/jsxgraph/jsxgraph",
+  "demo": "http://jsxgraph.uni-bayreuth.de/wp/examples/",
+  "similar": [],
+  "usedby": []
+}

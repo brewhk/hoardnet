@@ -1,0 +1,33 @@
+{
+  "_id": "jetsetter",
+  "name": "JetSetter",
+  "description": "Visual Get/Set Tool for Meteor Session Variables",
+  "summary": "",
+  "tags": [
+    "library"
+  ],
+  "dependencies": [
+    "meteor"
+  ],
+  "language": "javascript",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "backend"
+  ],
+  "features": [
+    "See All Your Sessions at Once",
+    "Easily View & Modify Sessions",
+    "Render in the DOM",
+    "Plug-and-Play Installation"
+  ],
+  "scenario": [
+    "When you easily want to debug your session variables in a meteor app"
+  ],
+  "website": "http://meteor.toys",
+  "repository": "https://github.com/msavin/JetSetter",
+  "demo": "",
+  "similar": [],
+  "usedby": []
+}
