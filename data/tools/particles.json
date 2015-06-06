@@ -1,0 +1,29 @@
+{
+  "_id": "particlesjs",
+  "name": "particles.js",
+  "description": "A lightweight JavaScript library for creating particles",
+  "summary": "",
+  "tags": [
+    "visualization"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend"
+  ],
+  "features": [
+    "Simple and versatile API",
+    "Easily installable"
+  ],
+  "scenario": [
+    "When you want to have dynamic effects and particles on your web page"
+  ],
+  "website": "http://vincentgarreau.com/particles.js/",
+  "repository": "https://github.com/VincentGarreau/particles.js",
+  "demo": "http://vincentgarreau.com/particles.js",
+  "similar": [],
+  "usedby": []
+}

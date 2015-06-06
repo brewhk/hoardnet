@@ -1,0 +1,49 @@
+{
+  "_id": "firebase",
+  "name": "Firebase",
+  "description": "A powerful platform for your mobile or web application",
+  "summary": "Firebase can power your app's backend, including data storage, user authentication, static hosting, and more. Focus on creating extraordinary user experiences. We'll take care of the rest.",
+  "tags": [
+    "infrastructure"
+  ],
+  "dependencies": [],
+  "language": "",
+  "environments": [
+    "browser",
+    "server"
+  ],
+  "audience": [
+    "backend",
+    "frontend"
+  ],
+  "features": [
+    "Realtime database",
+    "User authentication infrastructure",
+    "Static file hosting"
+  ],
+  "scenario": [
+    "When you want to focus just on the frontend aspects of your application and need a backend infrastructure"
+  ],
+  "website": "https://www.firebase.com/",
+  "repository": "https://github.com/firebase",
+  "demo": "",
+  "similar": [
+    {
+      "id": "derbyjs",
+      "relationship": ""
+    },
+    {
+      "id": "meteor",
+      "relationship": ""
+    },
+    {
+      "id": "stamplay",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "cbs",
+    "invision",
+    "citrix"
+  ]
+}
