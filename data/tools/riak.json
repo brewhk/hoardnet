@@ -1,0 +1,56 @@
+{
+  "_id": "riak",
+  "name": "Riak",
+  "description": "Riak is a decentralized datastore from Basho Technologies",
+  "summary": "Riak is an open-source, highly scalable, fault-tolerant distributed database",
+  "tags": [
+    "database"
+  ],
+  "dependencies": [],
+  "language": "erlang",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "Multi-bucket key/value storage",
+    "Search and secondary indexes",
+    "Modular, extensible local storage ",
+    "Protocol buffers and HTTP API interfaces",
+    "Concurrency and strong consistency"
+  ],
+  "scenario": [
+    "When you need a distributed, fast and consistent NoSQL database"
+  ],
+  "website": "http://docs.basho.com",
+  "repository": "https://github.com/basho/riak",
+  "demo": "",
+  "similar": [
+    {
+      "id": "mongodb",
+      "relationship": ""
+    },
+    {
+      "id": "rethinkdb",
+      "relationship": ""
+    },
+    {
+      "id": "arangodb",
+      "relationship": ""
+    },
+    {
+      "id": "orientdb",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "openx",
+    "tapjoy",
+    "rovio",
+    "xing",
+    "yahoo"
+  ]
+}

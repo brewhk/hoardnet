@@ -1,0 +1,59 @@
+{
+  "_id": "orientdb",
+  "name": "OrientDB",
+  "description": "OrientDB is the first Multi Model DBMS with Document & Graph engine",
+  "summary": "OrientDB is a 2nd Generation Distributed Graph Database with the flexibility of Documents in one product with an Open Source commercial friendly license (Apache 2 license). First generation Graph Databases lack the features that Big Data demands: multi-master replication, sharding and more flexibility for modern complex use cases.",
+  "tags": [
+    "database"
+  ],
+  "dependencies": [],
+  "language": "java",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "HTTP REST and JSON APIs",
+    "ACID compliance",
+    "SQL support",
+    "Multi Master replication"
+  ],
+  "scenario": [
+    "When you need a versatile graph database that you can use also for other stuff"
+  ],
+  "website": "http://orientdb.com/orientdb/",
+  "repository": "https://github.com/orientechnologies/orientdb",
+  "demo": "",
+  "similar": [
+    {
+      "id": "arangodb",
+      "relationship": ""
+    },
+    {
+      "id": "rethinkdb",
+      "relationship": ""
+    },
+    {
+      "id": "riak",
+      "relationship": ""
+    },
+    {
+      "id": "mongodb",
+      "relationship": ""
+    },
+    {
+      "id": "neo4j",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "warnermusic",
+    "cisco",
+    "sky",
+    "ericsson",
+    "verysign"
+  ]
+}

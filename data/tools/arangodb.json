@@ -1,0 +1,51 @@
+{
+  "_id": "arangodb",
+  "name": "ArangoDB",
+  "description": "The multi-model NoSQL database",
+  "summary": "ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions. Use ACID transactions if you require them. Scale horizontally with a few mouse clicks",
+  "tags": [
+    "database"
+  ],
+  "dependencies": [],
+  "language": "cpp",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "Multi-Model (Documents, graphs and key-value pairs)",
+    "Joins and Transactions",
+    "Easy to learn self-explaining query language"
+  ],
+  "scenario": [
+    "When you want a versatile and safe NoSQL data storage for your apps"
+  ],
+  "website": "https://www.arangodb.com/",
+  "repository": "https://github.com/arangodb/arangodb",
+  "demo": "",
+  "similar": [
+    {
+      "id": "mongodb",
+      "relationship": ""
+    },
+    {
+      "id": "orientdb",
+      "relationship": ""
+    },
+    {
+      "id": "rethinkdb",
+      "relationship": ""
+    },
+    {
+      "id": "riak",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "giantswarm",
+    "pixum"
+  ]
+}

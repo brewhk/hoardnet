@@ -1,0 +1,50 @@
+{
+  "_id": "rethinkdb",
+  "name": "RethinkDB",
+  "description": "A real time JSON document database",
+  "summary": "RethinkDB is an open-source distributed JSON document database with a pleasant and powerful query language",
+  "tags": [
+    "database"
+  ],
+  "dependencies": [],
+  "language": "cpp",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "sysadmin",
+    "backend"
+  ],
+  "features": [
+    "Facilities to build realtime applications",
+    "Robust architecture",
+    "Everything you need to build modern apps",
+    "Built with love by the open source community",
+    "Multi-cluster"
+  ],
+  "scenario": [
+    "When you need a noSQL data storage to build a realtime application"
+  ],
+  "website": "http://rethinkdb.com/",
+  "repository": "https://github.com/rethinkdb/rethinkdb",
+  "demo": "",
+  "similar": [
+    {
+      "id": "riak",
+      "relationship": ""
+    },
+    {
+      "id": "arangodb",
+      "relationship": ""
+    },
+    {
+      "id": "orientdb",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "mediafly",
+    "jive",
+    "narrative"
+  ]
+}
