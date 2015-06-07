@@ -1,0 +1,49 @@
+{
+  "_id": "lodash",
+  "name": "lodash",
+  "description": "A JavaScript utility library delivering consistency, modularity, performance",
+  "summary": "",
+  "tags": [
+    "library"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "browser",
+    "server"
+  ],
+  "audience": [
+    "backend",
+    "frontend"
+  ],
+  "features": [
+    "Compatible with NodeJS",
+    "Available in all package managers",
+    "AMD and ES Module compatible",
+    "Focused on performance"
+  ],
+  "scenario": [
+    "When you want to write functional-programming style javascript",
+    "When you need a fast library to process sets of data in javascript"
+  ],
+  "website": "https://lodash.com/",
+  "repository": "https://github.com/lodash/lodash",
+  "demo": "",
+  "similar": [
+    {
+      "id": "underscore",
+      "relationship": ""
+    },
+    {
+      "id": "lazyjs",
+      "relationship": ""
+    },
+    {
+      "id": "maddy",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    ""
+  ]
+}
