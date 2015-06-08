@@ -1,0 +1,45 @@
+{
+  "_id": "backbonejs",
+  "name": "Backbone.js",
+  "description": "Models, Views, Collections, and Events framework for javascript",
+  "summary": "Backbone.js is a complete MVC framework for javascript frontend development",
+  "tags": [
+    "framework"
+  ],
+  "dependencies": [],
+  "language": "javascript",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend",
+    "designer"
+  ],
+  "features": [
+    "Complete framework (Model, View, Collection, Routing and Events)",
+    "Extremely composable and customisable (use just what you need)",
+    "Compatible with other frameworks",
+    "Nested Models & Collections "
+  ],
+  "scenario": [
+    "When you want to build a data-rich web application and you need a flexible framework to ease the work"
+  ],
+  "website": "http://backbonejs.org/",
+  "repository": "https://github.com/jashkenas/backbone",
+  "demo": "",
+  "similar": [
+    {
+      "id": "angularjs",
+      "relationship": ""
+    },
+    {
+      "id": "reactjs",
+      "relationship": ""
+    }
+  ],
+  "usedby": [
+    "rdio",
+    "hulu",
+    "gilt"
+  ]
+}

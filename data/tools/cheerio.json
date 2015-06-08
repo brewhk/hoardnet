@@ -1,0 +1,36 @@
+{
+  "_id": "cheerio",
+  "name": "Cheerio",
+  "description": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",
+  "summary": "",
+  "tags": [
+    "library"
+  ],
+  "dependencies": [
+    "nodejs"
+  ],
+  "language": "javascript",
+  "environments": [
+    "server"
+  ],
+  "audience": [
+    "backend"
+  ],
+  "features": [
+    "jQuery syntax",
+    "Blazing fast and flexible"
+  ],
+  "scenario": [
+    "When you need to manipulate the DOM from the server"
+  ],
+  "website": "http://cheeriojs.github.io/cheerio/",
+  "repository": "https://github.com/cheeriojs/cheerio",
+  "demo": "",
+  "similar": [
+    {
+      "id": "jsdom",
+      "relationship": ""
+    }
+  ],
+  "usedby": []
+}

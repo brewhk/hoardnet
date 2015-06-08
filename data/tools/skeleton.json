@@ -1,0 +1,40 @@
+{
+  "_id": "skeleton",
+  "name": "Skeleton",
+  "description": "A dead simple, responsive boilerplate",
+  "summary": "Skeleton is an extremely light-weight web design framework optimized to design responsive web sites",
+  "tags": [
+    "framework"
+  ],
+  "dependencies": [],
+  "language": "css",
+  "environments": [
+    "browser"
+  ],
+  "audience": [
+    "frontend",
+    "designer"
+  ],
+  "features": [
+    "Light-weight (just 400 lines of CSS)",
+    "Styles designed to be a starting point, not a UI framework",
+    "Quick to start with zero compiling or installing necessary"
+  ],
+  "scenario": [
+    "You should use Skeleton if you're embarking on a smaller project or just don't feel like you need all the utility of larger frameworks"
+  ],
+  "website": "http://getskeleton.com/",
+  "repository": "https://github.com/dhg/Skeleton",
+  "demo": "http://getskeleton.com/examples/landing",
+  "similar": [
+    {
+      "id": "zurbframework",
+      "relationship": ""
+    },
+    {
+      "id": "bootstrap",
+      "relationship": ""
+    }
+  ],
+  "usedby": []
+}
