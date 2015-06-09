@@ -1,0 +1,27 @@
+{
+	"_id": "tomcat",
+	"name": "Apache Tomcat",
+	"dependencies": [],
+	"language": "java",
+	"environments": ["server"],
+	"description": "A Java Servlet container and JavaServer Pages (JSP) Server, specialized in serving Java technologies",
+	"features": [
+		"Serves Java Servlet and JavaServer Pages (JSPs)",
+		"Can also act as a HTTP server"
+	],
+	"scenario": [
+		"When you have a Java servlet or JSP files you need to deploy"
+	],
+	"website": "http://tomcat.apache.org/",
+	"repository": "http://svn.apache.org/repos/asf/tomcat/",
+	"demo": "",
+	"similar": [
+		{"id": "jetty", "relationship": ""},
+		{"id": "jrun", "relationship": ""},
+		{"id": "apache", "relationship": "Both are web servers. Apache HTTP Server focuses on serving static content, or dynamic content written in Perl, PHP and others. Tomcat's focus is on running Java Servlets and JSPs, which Apache HTTP Server cannot do. Tomcat can work behind Apache HTTP Server."},
+		{"id": "nginx", "relationship": ""}
+	],
+	"usedby": [
+		""
+	]
+}
