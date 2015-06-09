@@ -1,7 +1,7 @@
 {
   "_id": "apache",
   "name": "Apache HTTP Server",
-  "description": "",
+  "description": "Often just called 'Apache' or `httpd`, Apache HTTP Server is the most popular web server in the world",
   "tags": [
     "server"
   ],
@@ -16,7 +16,9 @@
   "audience": [
     "sysadmin"
   ],
-  "features": [],
+  "features": [
+    "Highly configurable"
+  ],
   "scenario": [
     "When you need to run an HTTP server to serve static pages or dynamic (through modules)"
   ],
