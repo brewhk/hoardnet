@@ -1,0 +1,27 @@
+{
+	"_id": "gunicorn",
+	"name": "Gunicorn",
+	"dependencies": [],
+	"language": "python",
+	"environments": [
+		"server",
+		"linux"
+	],
+	"description": "Python WSGI HTTP Server for UNIX",
+	"features": [],
+	"scenario": [],
+	"website": "http://gunicorn.org/",
+	"repository": "https://github.com/benoitc/gunicorn.git",
+	"demo": "",
+	"similar": [
+		{"id": "apache", "relationship": ""},
+		{"id": "nginx", "relationship": ""},
+		{"id": "passenger", "relationship": ""},
+		{"id": "unicorn", "relationship": ""},
+		{"id": "puma", "relationship": ""},
+		{"id": "thin", "relationship": ""}
+	],
+	"usedby": [
+		""
+	]
+}
