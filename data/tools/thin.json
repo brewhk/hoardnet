@@ -1,0 +1,26 @@
+{
+	"_id": "thin",
+	"name": "Thin",
+	"dependencies": [],
+	"language": "ruby",
+	"environments": [
+		"server"
+	],
+	"description": "A Ruby web server",
+	"features": [],
+	"scenario": [],
+	"website": "http://code.macournoyer.com/thin/",
+	"repository": "https://github.com/macournoyer/thin.git",
+	"demo": "",
+	"similar": [
+		{"id": "apache", "relationship": ""},
+		{"id": "nginx", "relationship": ""},
+		{"id": "passenger", "relationship": ""},
+		{"id": "unicorn", "relationship": ""},
+		{"id": "puma", "relationship": ""},
+		{"id": "gunicorn", "relationship": ""}
+	],
+	"usedby": [
+		""
+	]
+}
