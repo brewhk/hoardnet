@@ -1,0 +1,31 @@
+{
+	"_id": "puma",
+	"name": "Puma",
+	"dependencies": [],
+	"language": "ruby",
+	"environments": [
+		"server"
+	],
+	"description": "A Ruby web server",
+	"features": [
+		"Designed only for Rack applications",
+		"Uses a Ragel extension to provide fast, accurate HTTP 1.1 protocol parsing"
+	],
+	"scenario": [
+		"When you want to deploy Rack applications"
+	],
+	"website": "http://puma.io/",
+	"repository": "https://github.com/puma/puma.git",
+	"demo": "",
+	"similar": [
+		{"id": "apache", "relationship": ""},
+		{"id": "nginx", "relationship": ""},
+		{"id": "passenger", "relationship": ""},
+		{"id": "thin", "relationship": ""},
+		{"id": "unicorn", "relationship": ""},
+		{"id": "gunicorn", "relationship": ""}
+	],
+	"usedby": [
+		""
+	]
+}
