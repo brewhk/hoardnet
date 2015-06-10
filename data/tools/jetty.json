@@ -1,0 +1,26 @@
+{
+	"_id": "jetty",
+	"name": "Jetty",
+	"dependencies": [],
+	"language": "java",
+	"environments": ["server"],
+	"description": "Web server and Java Servlet container, with supoort for SPDY, WebSocket, OSGi, JMX, JNDI, JAAS",
+	"features": [
+	  "Supports SPDY, WebSocket, OSGi, JMX, JNDI, JAAS"
+	],
+	"scenario": [
+		"When you have a Java servlet or JSP files you need to deploy"
+	],
+	"website": "http://www.eclipse.org/jetty/",
+	"repository": "git://git.eclipse.org/gitroot/jetty/org.eclipse.jetty.project.git",
+	"demo": "",
+	"similar": [
+		{"id": "tomcat", "relationship": ""},
+		{"id": "jrun", "relationship": ""},
+		{"id": "apache", "relationship": ""},
+		{"id": "nginx", "relationship": ""}
+	],
+	"usedby": [
+		""
+	]
+}
