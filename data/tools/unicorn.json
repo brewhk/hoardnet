@@ -1,0 +1,27 @@
+{
+	"_id": "unicorn",
+	"name": "Unicorn",
+	"dependencies": [],
+	"language": "",
+	"environments": [
+		"server",
+		"linux"
+	],
+	"description": "Rack HTTP server for fast clients and Unix",
+	"features": [],
+	"scenario": [],
+	"website": "http://unicorn.bogomips.org/",
+	"repository": "http://bogomips.org/unicorn.git",
+	"demo": "",
+	"similar": [
+		{"id": "apache", "relationship": ""},
+		{"id": "nginx", "relationship": ""},
+		{"id": "passenger", "relationship": ""},
+		{"id": "thin", "relationship": ""},
+		{"id": "puma", "relationship": ""},
+		{"id": "gunicorn", "relationship": ""}
+	],
+	"usedby": [
+		""
+	]
+}
