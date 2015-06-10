@@ -1,0 +1,29 @@
+{
+	"_id": "passenger",
+	"alias": ["modrails"],
+	"name": "Phusion Passenger",
+	"dependencies": [],
+	"language": "",
+	"environments": [
+		"server"
+	],
+	"description": "A web server and application server for Ruby and Node.js",
+	"features": [
+		"Integrates with Apache or nginx"
+	],
+	"scenario": [],
+	"website": "https://www.phusionpassenger.com/",
+	"repository": "",
+	"demo": "",
+	"similar": [
+		{"id": "apache", "relationship": ""},
+		{"id": "nginx", "relationship": ""},
+		{"id": "gunicorn", "relationship": ""},
+		{"id": "unicorn", "relationship": ""},
+		{"id": "puma", "relationship": ""},
+		{"id": "thin", "relationship": ""}
+	],
+	"usedby": [
+		""
+	]
+}
